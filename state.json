@@ -712,6 +712,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/124363521/",
         "status": "REDO",
         "item_id": "3160108859"
+      },
+      "126451655": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/sundsta/126451655/",
+        "status": "REDO",
+        "item_id": "3160385417"
       }
     },
     "Helsingborg": {
@@ -855,7 +860,9 @@
       },
       "115103263": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/eneborg/115103263/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-13",
+        "sald": "2026-08-13"
       },
       "125596365": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr/125596365/",
@@ -1407,6 +1414,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/astorp/grytevad/112653705/",
         "status": "REDO",
         "item_id": "3160109206"
+      },
+      "115019227": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr-fria-bad/115019227/",
+        "status": "Till salu",
+        "item_id": "3160397493"
       }
     }
   },

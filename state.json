@@ -707,6 +707,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/lorensberg/122115747/",
         "status": "Såld",
         "item_id": "3158716688"
+      },
+      "124363521": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/124363521/",
+        "status": "REDO",
+        "item_id": "3160108859"
       }
     },
     "Helsingborg": {
@@ -808,7 +813,9 @@
       },
       "125797871": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/125797871/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-08-13",
+        "sald": "2026-08-13"
       },
       "125167713": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/orkelljunga/skanes-fagerhult/125167713/",
@@ -1395,6 +1402,11 @@
       "124966225": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/bastad/angelsback/124966225/",
         "status": "Såld"
+      },
+      "112653705": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/astorp/grytevad/112653705/",
+        "status": "REDO",
+        "item_id": "3160109206"
       }
     }
   },

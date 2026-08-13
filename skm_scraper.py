@@ -18,6 +18,7 @@ import random
 import re
 import sys
 import time
+import datetime as dt
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlencode, urljoin
@@ -133,18 +134,42 @@ def resolve_office_id(slug, cache):
 OBJ_URL_RE = re.compile(r"/hitta-hem/[a-z0-9\-]+/[^\s\"'<>]*?/(\d{6,})/?$")
 
 
-def listing_urls_for_office(office_id, max_pages=6):
-    """Returnerar {objekt_id: absolut_url} för ett kontor, senast inkomna först."""
+def status_ur_text(text):
+    """Läser bostadens läge ur listans länktext.
+
+    Sajten skriver ut märkningen i klartext framför adressen:
+    'REDO™ Packhusallén 8A', 'Såld Dammgatan 13', 'Kommer snart'.
+    Ett objekt kan bära flera märken — då gäller det senaste steget.
+    """
+    t = (text or "").lower()
+    if "såld" in t or "sald" in t:
+        return "Såld"
+    if "redo" in t:
+        return "REDO"
+    if "kommer snart" in t:
+        return "Kommer snart"
+    return "Till salu"
+
+
+def listing_urls_for_office(office_id, max_pages=6, sold=False):
+    """Returnerar {objekt_id: {"url":…, "status":…}} för ett kontor.
+
+    sold=True hämtar i stället kontorets sålda objekt. Sajten använder samma
+    söksida med &sold=True, och sålda objekt behåller sin ursprungliga adress —
+    därför går de att matcha mot det vi redan sett.
+    """
     found = {}
     for page in range(max_pages):
         params = {
             "officeId": office_id,
             "sort": "latestPublishedDate|desc",
         }
+        if sold:
+            params["sold"] = "True"
         if page:
             params["pageIndex"] = page
         url = f"{BASE}/hitta-hem/?{urlencode(params)}"
-        print(f"  Sida {page + 1}: {url}")
+        print(f"  {'Sålda, sida' if sold else 'Sida'} {page + 1}: {url}")
 
         html = polite_get(url)
         if not html:
@@ -156,8 +181,12 @@ def listing_urls_for_office(office_id, max_pages=6):
         for a in soup.find_all("a", href=True):
             href = a["href"].split("?")[0].split("#")[0]
             m = OBJ_URL_RE.search(href)
-            if m:
-                found[m.group(1)] = urljoin(BASE, href)
+            if not m:
+                continue
+            oid = m.group(1)
+            lage = "Såld" if sold else status_ur_text(a.get_text(" ", strip=True))
+            # Första träffen vinner — listan visar samma objekt en gång
+            found.setdefault(oid, {"url": urljoin(BASE, href), "status": lage})
 
         new_on_page = len(found) - before
         print(f"    {new_on_page} objekt hittade (totalt {len(found)})")
@@ -424,6 +453,8 @@ def push_to_monday(row, cfg):
         return False
 
     colmap = cfg.get("monday_columns", {})
+    row = dict(row)
+    row.setdefault("bostadsstatus", "Till salu")
     values = {}
     for field, col_id in colmap.items():
         val = row.get(field, "")
@@ -441,6 +472,8 @@ def push_to_monday(row, cfg):
             values[col_id] = {"url": str(val), "text": "Öppna annons"}
         elif col_id.startswith("date"):
             values[col_id] = {"date": str(val)[:10]}
+        elif col_id.startswith("color"):
+            values[col_id] = {"label": str(val)}
         elif col_id.startswith(("numbers", "numeric")):
             values[col_id] = str(val)
         else:
@@ -469,10 +502,61 @@ def push_to_monday(row, cfg):
         body = r.json()
         if "errors" in body:
             print(f"    Monday-fel: {body['errors']}")
+            return None
+        return body.get("data", {}).get("create_item", {}).get("id")
+    except Exception as e:
+        print(f"    Monday-fel: {e}")
+        return None
+
+
+def update_status_on_monday(item_id, cfg, status, datum=None):
+    """Sätter Bostadsstatus på ett befintligt item och stämplar datum."""
+    token = cfg.get("monday_token") or os.environ.get("MONDAY_TOKEN", "")
+    board = cfg.get("monday_board_id", "")
+    colmap = cfg.get("monday_columns", {})
+    status_col = colmap.get("bostadsstatus")
+    if not token or not board or not item_id or not status_col:
+        return False
+
+    idag = (datum or dt.date.today().isoformat())[:10]
+    values = {status_col: {"label": status}}
+
+    andrad_col = colmap.get("status_andrad")
+    if andrad_col:
+        values[andrad_col] = {"date": idag}
+
+    # Säljdatumet sätts bara när objektet faktiskt gått till sålt
+    datum_col = colmap.get("sald_datum")
+    if datum_col and status == "Såld":
+        values[datum_col] = {"date": idag}
+
+    query = """
+    mutation ($board: ID!, $item: ID!, $vals: JSON!) {
+      change_multiple_column_values (board_id: $board, item_id: $item, column_values: $vals) { id }
+    }
+    """
+    payload = {
+        "query": query,
+        "variables": {
+            "board": str(board),
+            "item": str(item_id),
+            "vals": json.dumps(values, ensure_ascii=False),
+        },
+    }
+    try:
+        r = requests.post(
+            "https://api.monday.com/v2",
+            json=payload,
+            headers={"Authorization": token, "API-Version": "2024-10"},
+            timeout=30,
+        )
+        body = r.json()
+        if "errors" in body:
+            print(f"    Monday-fel vid statusuppdatering: {body['errors']}")
             return False
         return True
     except Exception as e:
-        print(f"    Monday-fel: {e}")
+        print(f"    Monday-fel vid statusuppdatering: {e}")
         return False
 
 
@@ -480,11 +564,33 @@ def push_to_monday(row, cfg):
 # Huvudflöde
 # ----------------------------------------------------------------------
 
-def run_scan(cfg, offices, state, max_pages, first_run=False, use_excel=True):
-    """En avsökning av alla kontor. Returnerar listan med nya objekt."""
+def _known_dict(varde):
+    """Gör om det sparade läget till {objekt_id: {...}}.
+
+    Tidigare versioner sparade bara en lista med URL:er. Den formen
+    migreras här, så att en befintlig state.json fortsätter fungera.
+    """
+    if isinstance(varde, dict):
+        return varde
+    kant = {}
+    for post in (varde or []):
+        s = str(post)
+        m = OBJ_URL_RE.search(s)
+        if m:                      # hel URL
+            kant[m.group(1)] = {"url": s, "status": "Till salu"}
+        else:                      # bara objekt-ID, som äldre versioner sparade
+            kant[s] = {"url": "", "status": "Till salu"}
+    return kant
+
+
+def run_scan(cfg, offices, state, max_pages, first_run=False, use_excel=True, limit=0,
+             sold_pages=3):
+    """En avsökning av alla kontor. Returnerar listan med nya objekt.
+    limit > 0 behandlar bara så många nya objekt totalt — för testkörningar."""
     seen = state.setdefault("seen", {})
     id_cache = state.setdefault("office_ids", {})
     all_new = []
+    andrade = []
 
     for name, slug in offices.items():
         print(f"\n=== {name} ===")
@@ -499,23 +605,81 @@ def run_scan(cfg, offices, state, max_pages, first_run=False, use_excel=True):
             print("  Inga objekt hittades – kolla kontors-ID i config.json")
             continue
 
-        known = set(seen.get(name, []))
-        fresh = {oid: u for oid, u in urls.items() if oid not in known}
+        # Sålda ligger i en egen lista, eftersom de faller ur den vanliga.
+        if not first_run and not limit:
+            for oid, post in listing_urls_for_office(
+                    office_id, max_pages=sold_pages, sold=True).items():
+                urls.setdefault(oid, post)
+                urls[oid]["status"] = "Såld"
+
+        kant = _known_dict(seen.get(name))
+        fresh = {oid: p for oid, p in urls.items() if oid not in kant}
         print(f"  {len(fresh)} nya av {len(urls)} totalt")
 
         if not first_run:
-            for oid, url in fresh.items():
-                print(f"  Hämtar {url}")
-                row = parse_listing(url, name)
+            for oid, post in fresh.items():
+                if limit and len(all_new) >= limit:
+                    print(f"  Testläge: stannar vid {limit} objekt")
+                    break
+                print(f"  Hämtar {post['url']}")
+                row = parse_listing(post["url"], name)
                 if not row:
                     continue
                 row["objekt_id"] = oid
+                row["_kontor_key"] = name
+                row["bostadsstatus"] = post["status"]
                 all_new.append(row)
-                print(f"    {row['adress']} – {row.get('maklare') or 'mäklare okänd'}")
+                print(f"    {row['adress']} [{post['status']}] – {row.get('maklare') or 'mäklare okänd'}")
 
-        seen[name] = sorted(set(known) | set(urls))
+        # --- Statusändringar på objekt vi redan känner till
+        if not first_run and not limit:
+            for oid, post in urls.items():
+                gammal = kant.get(oid)
+                if not gammal or gammal.get("status") == post["status"]:
+                    continue
+                idag = dt.date.today().isoformat()
+                andrade.append({
+                    "kontor": name,
+                    "url": gammal.get("url") or post["url"],
+                    "item_id": gammal.get("item_id"),
+                    "fran": gammal.get("status", "okänd"),
+                    "till": post["status"],
+                    "datum": idag,
+                })
+                gammal["status"] = post["status"]
+                gammal["andrad"] = idag
+                if post["status"] == "Såld":
+                    gammal["sald"] = idag
 
-    save_json(STATE_FILE, state)
+        if limit:
+            # I testläge markeras inget som sett, så att en riktig
+            # baslinje och skarp körning inte påverkas efteråt.
+            pass
+        else:
+            for oid, post in urls.items():
+                if oid not in kant:
+                    kant[oid] = {"url": post["url"], "status": post["status"]}
+            seen[name] = kant
+
+    if not limit:
+        save_json(STATE_FILE, state)
+
+    # --- Skriv statusändringarna till Monday
+    if andrade and cfg.get("monday_board_id"):
+        ok = 0
+        for a in andrade:
+            if a["item_id"] and update_status_on_monday(a["item_id"], cfg, a["till"], a["datum"]):
+                ok += 1
+        utan_rad = sum(1 for a in andrade if not a["item_id"])
+        print(f"\nStatusändringar: {ok} av {len(andrade)} uppdaterade på Monday")
+        if utan_rad:
+            print(f"  {utan_rad} saknar rad på boarden (fanns före bevakningen)")
+        for a in andrade:
+            print(f"  • {a['fran']} → {a['till']}: {a['url']}")
+        save_json(STATE_FILE, state)
+    elif andrade:
+        for a in andrade:
+            print(f"  • {a['fran']} → {a['till']}: {a['url']}")
 
     if first_run or not all_new:
         return all_new
@@ -524,8 +688,18 @@ def run_scan(cfg, offices, state, max_pages, first_run=False, use_excel=True):
         write_excel(all_new)
 
     if cfg.get("monday_board_id"):
-        ok = sum(push_to_monday(r, cfg) for r in all_new)
+        ok = 0
+        for r in all_new:
+            item_id = push_to_monday(r, cfg)
+            if item_id:
+                ok += 1
+                # Spara item-ID:t så att statusen kan uppdateras senare
+                post = seen.get(r.get("_kontor_key"), {}).get(r.get("objekt_id"))
+                if isinstance(post, dict):
+                    post["item_id"] = str(item_id)
         print(f"Monday: {ok} av {len(all_new)} rader skapade")
+        if not limit:
+            save_json(STATE_FILE, state)
 
     print("\nNya objekt:")
     for r in all_new:
@@ -533,6 +707,16 @@ def run_scan(cfg, offices, state, max_pages, first_run=False, use_excel=True):
         print(f"  • {r['adress']}, {r['ort']} – {pris} – {r.get('maklare', '')} <{r.get('maklare_epost', '')}>")
 
     return all_new
+
+
+def cfg_sold_pages_default():
+    """Hur djupt in i kontorets sålda lista vi tittar. Listan sorteras på
+    publiceringsdatum, och våra bevakade objekt är nypublicerade — därför
+    hamnar de högt upp när de säljs. Tre sidor räcker normalt."""
+    try:
+        return json.loads(Path(CONFIG_FILE).read_text(encoding="utf-8")).get("sold_pages", 3)
+    except Exception:
+        return 3
 
 
 def main():
@@ -547,7 +731,12 @@ def main():
                     help="Minuter mellan avsökningar i watch-läge (minst 15)")
     ap.add_argument("--no-excel", action="store_true",
                     help="Skriv bara till Monday, hoppa över Excel")
+    ap.add_argument("--sold-pages", type=int, default=0,
+                    help="Hur många sidor av kontorets sålda lista som gås igenom (standard 3)")
+    ap.add_argument("--limit", type=int, default=0,
+                    help="Testläge: behandla bara så här många objekt och rör inte state.json")
     args = ap.parse_args()
+    sold_pages = args.sold_pages or int(cfg_sold_pages_default())
 
     if not CONFIG_FILE.exists():
         sys.exit(f"Saknar {CONFIG_FILE}.")
@@ -564,8 +753,12 @@ def main():
     # --- Engångskörning ---
     if not args.watch:
         found = run_scan(cfg, offices, state, args.max_pages,
-                         first_run=args.first_run, use_excel=not args.no_excel)
-        if args.first_run:
+                         first_run=args.first_run, use_excel=not args.no_excel,
+                         limit=args.limit, sold_pages=sold_pages)
+        if args.limit:
+            print(f"\nTestkörning klar: {len(found)} objekt behandlade. "
+                  "state.json är orörd, så baslinjen påverkas inte.")
+        elif args.first_run:
             total = sum(len(v) for v in state["seen"].values())
             print(f"\nBaslinje sparad: {total} objekt. Nästa körning larmar bara om nytillkomna.")
         elif not found:
@@ -579,7 +772,7 @@ def main():
 
     if not state.get("seen"):
         print("Ingen baslinje hittades. Bygger en först så att du slipper alla befintliga objekt.\n")
-        run_scan(cfg, offices, state, args.max_pages, first_run=True)
+        run_scan(cfg, offices, state, args.max_pages, first_run=True, sold_pages=sold_pages)
         print(f"\nBaslinje klar: {sum(len(v) for v in state['seen'].values())} objekt.")
 
     print(f"\nWatch-läge igång. Söker av var {interval}:e minut. Avbryt med Ctrl+C.\n")
@@ -590,7 +783,7 @@ def main():
             stamp = datetime.now().strftime("%Y-%m-%d %H:%M")
             print(f"\n{'─' * 52}\nAvsökning {scans} – {stamp}")
             try:
-                found = run_scan(cfg, offices, state, args.max_pages,
+                found = run_scan(cfg, offices, state, args.max_pages, sold_pages=sold_pages,
                                  use_excel=not args.no_excel)
                 if not found:
                     print("  Inget nytt.")

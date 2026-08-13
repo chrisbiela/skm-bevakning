@@ -21,7 +21,12 @@
     "maklare_telefon": "phone_mm64xqgm",
     "url": "link_mm64m9t1",
     "har_film": "text_mm64rbay",
-    "publicerad": "date_mm64q87k"
+    "publicerad": "date_mm64q87k",
+    "bostadsstatus": "color_mm654d4p",
+    "sald_datum": "date_mm65ptc5",
+    "status_andrad": "date_mm657tzp"
   },
-  "_publiceringsdatum": "Publicerad = date_mm64q87k. Datumkallan (Fran sidan / Forst sedd) finns bara i Excel. Vill du ha den i Monday: skapa en textkolumn och lagg in \"datumkalla\": \"<kolumn-id>\" har."
+  "_publiceringsdatum": "Publicerad = date_mm64q87k. Datumkallan (Fran sidan / Forst sedd) finns bara i Excel. Vill du ha den i Monday: skapa en textkolumn och lagg in \"datumkalla\": \"<kolumn-id>\" har.",
+  "_bostadsstatus": "Bostadsstatus lases ur listans markning: REDO, Kommer snart, Till salu, Sald. Andras den satts nytt varde plus datum i 'Status andrad'. 'Sald datum' satts bara vid overgang till Sald. Kolumnen Status (color_mm64mm93) ror scrapern inte - den ar din egen.",
+  "sold_pages": 3
 }

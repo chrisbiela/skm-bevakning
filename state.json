@@ -261,7 +261,9 @@
       },
       "125329845": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/inre-hamn/125329845/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-08-14",
+        "sald": "2026-08-14"
       },
       "117763283": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/hammaro/117763283/",
@@ -317,7 +319,9 @@
       },
       "124261449": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/olme-svarteberg/124261449/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-14",
+        "sald": "2026-08-14"
       },
       "125659727": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/125659727/",
@@ -723,6 +727,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/valberg/segerstad/126580701/",
         "status": "Till salu",
         "item_id": "3161942062"
+      },
+      "99434432": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/edsgatan/99434432/",
+        "status": "Till salu",
+        "item_id": "3162430722"
       }
     },
     "Helsingborg": {

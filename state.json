@@ -722,8 +722,9 @@
     "Helsingborg": {
       "125406019": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/morarp/morarp/125406019/",
-        "status": "REDO",
-        "item_id": "3158708844"
+        "status": "Till salu",
+        "item_id": "3158708844",
+        "andrad": "2026-08-14"
       },
       "121174601": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/gustavslund/121174601/",
@@ -809,7 +810,8 @@
       },
       "126422389": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126422389/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-14"
       },
       "126175477": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/126175477/",
@@ -840,7 +842,8 @@
       },
       "125852641": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/125852641/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-14"
       },
       "126140879": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/landskrona/landskrona/126140879/",
@@ -1419,6 +1422,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr-fria-bad/115019227/",
         "status": "Till salu",
         "item_id": "3160397493"
+      },
+      "125215503": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/raa/raa/125215503/",
+        "status": "REDO",
+        "item_id": "3161560236"
       }
     }
   },

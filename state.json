@@ -732,6 +732,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/edsgatan/99434432/",
         "status": "Till salu",
         "item_id": "3162430722"
+      },
+      "126923481": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/stockfallet/126923481/",
+        "status": "Till salu",
+        "item_id": "3162558565"
       }
     },
     "Helsingborg": {
@@ -1450,6 +1455,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/haradal/120242067/",
         "status": "REDO",
         "item_id": "3161960139"
+      },
+      "121114203": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/121114203/",
+        "status": "REDO",
+        "item_id": "3162570053"
       }
     }
   },

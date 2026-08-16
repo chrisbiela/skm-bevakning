@@ -164,8 +164,10 @@
       },
       "122585893": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/122585893/",
-        "status": "REDO",
-        "item_id": "3158707626"
+        "status": "Såld",
+        "item_id": "3158707626",
+        "andrad": "2026-08-16",
+        "sald": "2026-08-16"
       },
       "125822871": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skoghall/gunnarskar/125822871/",
@@ -770,7 +772,8 @@
       },
       "123429141": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/norr/123429141/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-16"
       },
       "126487023": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/bjuv/bjuv/126487023/",
@@ -794,7 +797,8 @@
       },
       "126411015": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/126411015/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-16"
       },
       "126422945": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/126422945/",

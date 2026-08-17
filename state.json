@@ -53,8 +53,9 @@
       },
       "126476421": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126476421/",
-        "status": "REDO",
-        "item_id": "3158712362"
+        "status": "Till salu",
+        "item_id": "3158712362",
+        "andrad": "2026-08-17"
       },
       "123842495": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/haga/123842495/",
@@ -171,7 +172,9 @@
       },
       "125822871": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skoghall/gunnarskar/125822871/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-08-17",
+        "sald": "2026-08-17"
       },
       "125312477": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/slottsbron/grums/125312477/",
@@ -759,6 +762,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126403221/",
         "status": "REDO",
         "item_id": "3166726661"
+      },
+      "101866716": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/farjestad/101866716/",
+        "status": "REDO",
+        "item_id": "3167150299"
       }
     },
     "Helsingborg": {

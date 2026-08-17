@@ -229,7 +229,9 @@
       },
       "123216215": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/lorensberg/123216215/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-17",
+        "sald": "2026-08-17"
       },
       "122159497": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/centralt/122159497/",
@@ -752,6 +754,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/117344131/",
         "status": "Såld",
         "item_id": "3164831140"
+      },
+      "126403221": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126403221/",
+        "status": "REDO",
+        "item_id": "3166726661"
       }
     },
     "Helsingborg": {
@@ -1116,7 +1123,8 @@
       },
       "120141743": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/120141743/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-17"
       },
       "122141197": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/nyhamnslage/nyhamnslage/122141197/",
@@ -1474,8 +1482,9 @@
       },
       "120242067": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/haradal/120242067/",
-        "status": "REDO",
-        "item_id": "3161960139"
+        "status": "Till salu",
+        "item_id": "3161960139",
+        "andrad": "2026-08-17"
       },
       "121114203": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/121114203/",

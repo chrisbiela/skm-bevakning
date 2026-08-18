@@ -1004,7 +1004,8 @@
       },
       "124237487": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/124237487/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-18"
       },
       "121159465": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/vasatorp/121159465/",
@@ -1500,6 +1501,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/121114203/",
         "status": "REDO",
         "item_id": "3162570053"
+      },
+      "103086186": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/ringstorp/103086186/",
+        "status": "REDO",
+        "item_id": "3168712053"
       }
     }
   },

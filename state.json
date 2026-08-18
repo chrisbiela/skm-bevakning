@@ -18,8 +18,9 @@
       },
       "102878182": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/norrstrand/102878182/",
-        "status": "REDO",
-        "item_id": "3158703656"
+        "status": "Till salu",
+        "item_id": "3158703656",
+        "andrad": "2026-08-18"
       },
       "124318851": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/marieberg/124318851/",
@@ -768,6 +769,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/farjestad/101866716/",
         "status": "REDO",
         "item_id": "3167150299"
+      },
+      "122600583": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/ulvsby-lindragen/122600583/",
+        "status": "REDO",
+        "item_id": "3169990865"
       }
     },
     "Helsingborg": {

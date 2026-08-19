@@ -931,7 +931,9 @@
       },
       "126140879": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/landskrona/landskrona/126140879/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-19",
+        "sald": "2026-08-19"
       },
       "125346759": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/helsingborg/palsjo-skog/125346759/",
@@ -1537,6 +1539,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/stattena/101723990/",
         "status": "REDO",
         "item_id": "3172491581"
+      },
+      "116350767": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/drottninghog/116350767/",
+        "status": "Till salu",
+        "item_id": "3172843384"
       }
     }
   },

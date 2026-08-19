@@ -232,7 +232,9 @@
       },
       "125659541": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/125659541/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-19",
+        "sald": "2026-08-19"
       },
       "123216215": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/lorensberg/123216215/",
@@ -786,6 +788,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/122929689/",
         "status": "REDO",
         "item_id": "3171724409"
+      },
+      "125522499": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/stockfallet/125522499/",
+        "status": "Till salu",
+        "item_id": "3171922299"
       }
     },
     "Helsingborg": {

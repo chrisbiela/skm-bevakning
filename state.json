@@ -377,7 +377,9 @@
       },
       "117082405": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/hammaro/bena/117082405/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-20",
+        "sald": "2026-08-20"
       },
       "123456653": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/123456653/",
@@ -793,6 +795,16 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/stockfallet/125522499/",
         "status": "Till salu",
         "item_id": "3171922299"
+      },
+      "125865169": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/jakobsberg/125865169/",
+        "status": "REDO",
+        "item_id": "3173906816"
+      },
+      "126335837": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/126335837/",
+        "status": "Till salu",
+        "item_id": "3173906752"
       }
     },
     "Helsingborg": {
@@ -1544,6 +1556,16 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/drottninghog/116350767/",
         "status": "Till salu",
         "item_id": "3172843384"
+      },
+      "118179509": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum-norr/118179509/",
+        "status": "REDO",
+        "item_id": "3173911020"
+      },
+      "121700671": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/larod/121700671/",
+        "status": "REDO",
+        "item_id": "3173917181"
       }
     }
   },

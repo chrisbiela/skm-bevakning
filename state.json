@@ -164,8 +164,9 @@
       },
       "107517996": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/stodene/107517996/",
-        "status": "REDO",
-        "item_id": "3158705494"
+        "status": "Till salu",
+        "item_id": "3158705494",
+        "andrad": "2026-08-20"
       },
       "122585893": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/122585893/",
@@ -1527,9 +1528,10 @@
       },
       "125215503": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/raa/raa/125215503/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3161560236",
-        "andrad": "2026-08-17"
+        "andrad": "2026-08-20",
+        "sald": "2026-08-20"
       },
       "120242067": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/haradal/120242067/",

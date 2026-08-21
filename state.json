@@ -807,6 +807,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/126335837/",
         "status": "Till salu",
         "item_id": "3173906752"
+      },
+      "126380371": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/126380371/",
+        "status": "REDO",
+        "item_id": "3177796601"
       }
     },
     "Helsingborg": {
@@ -1263,7 +1268,8 @@
       },
       "117652359": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/vejbystrand/117652359/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-21"
       },
       "102801020": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/drottninghog/102801020/",
@@ -1586,6 +1592,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/mariastaden/127097305/",
         "status": "Till salu",
         "item_id": "3177597131"
+      },
+      "126381703": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/bjorkhagen/126381703/",
+        "status": "Till salu",
+        "item_id": "3177803721"
       }
     }
   },

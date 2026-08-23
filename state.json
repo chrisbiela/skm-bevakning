@@ -1605,8 +1605,10 @@
       },
       "127086969": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127086969/",
-        "status": "REDO",
-        "item_id": "3177053413"
+        "status": "Såld",
+        "item_id": "3177053413",
+        "andrad": "2026-08-23",
+        "sald": "2026-08-23"
       },
       "127097305": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/mariastaden/127097305/",
@@ -1627,6 +1629,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/119148849/",
         "status": "Till salu",
         "item_id": "3178836556"
+      },
+      "119261739": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/119261739/",
+        "status": "Såld",
+        "item_id": "3180470091"
       }
     }
   },

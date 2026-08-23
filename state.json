@@ -850,7 +850,8 @@
       },
       "124031959": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/124031959/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-23"
       },
       "104367834": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/104367834/",
@@ -1570,8 +1571,9 @@
       },
       "121114203": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/121114203/",
-        "status": "REDO",
-        "item_id": "3162570053"
+        "status": "Till salu",
+        "item_id": "3162570053",
+        "andrad": "2026-08-23"
       },
       "103086186": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/ringstorp/103086186/",

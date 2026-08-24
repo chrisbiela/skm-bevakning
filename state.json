@@ -184,7 +184,9 @@
       },
       "125312477": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/slottsbron/grums/125312477/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-08-24",
+        "sald": "2026-08-24"
       },
       "125881471": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/rud/125881471/",
@@ -829,6 +831,21 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/inre-hamn/126585855/",
         "status": "Till salu",
         "item_id": "3178987245"
+      },
+      "124269929": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124269929/",
+        "status": "REDO",
+        "item_id": "3182908070"
+      },
+      "113751111": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/113751111/",
+        "status": "REDO",
+        "item_id": "3182908071"
+      },
+      "124818319": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/filipstad/paradishyttan/124818319/",
+        "status": "Till salu",
+        "item_id": "3182906342"
       }
     },
     "Helsingborg": {

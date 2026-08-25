@@ -295,7 +295,9 @@
       },
       "123585087": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/forshaga/123585087/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-25",
+        "sald": "2026-08-25"
       },
       "124643639": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/centrum/124643639/",
@@ -853,6 +855,10 @@
       "108330372": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/centrum-mitt-i-city/108330372/",
         "status": "Till salu"
+      },
+      "126690093": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126690093/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -924,8 +930,9 @@
       },
       "126422945": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/126422945/",
-        "status": "Till salu",
-        "andrad": "2026-08-14"
+        "status": "Såld",
+        "andrad": "2026-08-25",
+        "sald": "2026-08-25"
       },
       "126488021": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/126488021/",

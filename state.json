@@ -858,9 +858,10 @@
     "Helsingborg": {
       "125406019": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/morarp/morarp/125406019/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3158708844",
-        "andrad": "2026-08-14"
+        "andrad": "2026-08-25",
+        "sald": "2026-08-25"
       },
       "121174601": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/gustavslund/121174601/",

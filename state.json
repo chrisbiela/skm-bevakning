@@ -319,7 +319,8 @@
       },
       "123095717": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/123095717/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-25"
       },
       "124334203": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tingvallastaden/124334203/",
@@ -848,6 +849,10 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/filipstad/paradishyttan/124818319/",
         "status": "Till salu",
         "item_id": "3182906342"
+      },
+      "108330372": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/centrum-mitt-i-city/108330372/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1658,6 +1663,14 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/viken/viken/126954551/",
         "status": "REDO",
         "item_id": "3180549988"
+      },
+      "97427336": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/nyvang/nyvang/97427336/",
+        "status": "Till salu"
+      },
+      "126303203": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hyllinge/hyllinge/126303203/",
+        "status": "Såld"
       }
     }
   },

@@ -3,8 +3,10 @@
     "Karlstad": {
       "125865551": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/rud/125865551/",
-        "status": "Till salu",
-        "item_id": "3158705412"
+        "status": "Såld",
+        "item_id": "3158705412",
+        "andrad": "2026-08-28",
+        "sald": "2026-08-28"
       },
       "126852049": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/trossnas/126852049/",
@@ -39,8 +41,10 @@
       },
       "125073943": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/125073943/",
-        "status": "Till salu",
-        "item_id": "3158701210"
+        "status": "Såld",
+        "item_id": "3158701210",
+        "andrad": "2026-08-28",
+        "sald": "2026-08-28"
       },
       "123277583": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/nybble/123277583/",
@@ -60,8 +64,9 @@
       },
       "123842495": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/haga/123842495/",
-        "status": "REDO",
-        "item_id": "3158708188"
+        "status": "Till salu",
+        "item_id": "3158708188",
+        "andrad": "2026-08-28"
       },
       "126416327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/grums/malsjo/126416327/",
@@ -362,7 +367,9 @@
       },
       "122783753": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/122783753/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-08-28",
+        "sald": "2026-08-28"
       },
       "124912599": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/malmen/124912599/",
@@ -773,8 +780,9 @@
       },
       "125705101": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/forshaga/grossbol/125705101/",
-        "status": "REDO",
-        "item_id": "3164433474"
+        "status": "Till salu",
+        "item_id": "3164433474",
+        "andrad": "2026-08-28"
       },
       "117344131": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/117344131/",
@@ -895,6 +903,18 @@
       "126047883": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/hammar/126047883/",
         "status": "Till salu"
+      },
+      "123340755": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/123340755/",
+        "status": "REDO"
+      },
+      "126125291": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126125291/",
+        "status": "REDO"
+      },
+      "125880955": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skattkarr/125880955/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1003,8 +1023,9 @@
       },
       "126422389": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126422389/",
-        "status": "Till salu",
-        "andrad": "2026-08-14"
+        "status": "Såld",
+        "andrad": "2026-08-28",
+        "sald": "2026-08-28"
       },
       "126175477": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/126175477/",
@@ -1039,8 +1060,9 @@
       },
       "125852641": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/125852641/",
-        "status": "Till salu",
-        "andrad": "2026-08-14"
+        "status": "Såld",
+        "andrad": "2026-08-28",
+        "sald": "2026-08-28"
       },
       "126140879": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/landskrona/landskrona/126140879/",
@@ -1731,6 +1753,18 @@
       },
       "115332897": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/gustavslund/115332897/",
+        "status": "Till salu"
+      },
+      "125511277": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/bastad/forslov/125511277/",
+        "status": "Till salu"
+      },
+      "124614109": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/strovelstorp/strovelstorp/124614109/",
+        "status": "Till salu"
+      },
+      "114824389": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/domsten/114824389/",
         "status": "Till salu"
       }
     }

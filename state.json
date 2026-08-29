@@ -1282,7 +1282,8 @@
       },
       "99929726": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum-slottshojden/99929726/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-08-29"
       },
       "115650069": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vasatorp/115650069/",
@@ -1766,6 +1767,10 @@
       "114824389": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/domsten/114824389/",
         "status": "Till salu"
+      },
+      "126157577": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/126157577/",
+        "status": "REDO"
       }
     }
   },

@@ -1728,8 +1728,9 @@
       },
       "124717651": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/fridhem/124717651/",
-        "status": "REDO",
-        "item_id": "3177890035"
+        "status": "Till salu",
+        "item_id": "3177890035",
+        "andrad": "2026-08-31"
       },
       "119148849": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/119148849/",
@@ -1806,6 +1807,14 @@
       "126759327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126759327/",
         "status": "Till salu"
+      },
+      "126844661": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/soder/126844661/",
+        "status": "Till salu"
+      },
+      "126160329": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/126160329/",
+        "status": "REDO"
       }
     }
   },

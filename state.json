@@ -153,8 +153,10 @@
       },
       "123242929": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/klara/123242929/",
-        "status": "Till salu",
-        "item_id": "3158708335"
+        "status": "Såld",
+        "item_id": "3158708335",
+        "andrad": "2026-08-31",
+        "sald": "2026-08-31"
       },
       "126315961": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/rud/126315961/",
@@ -926,6 +928,10 @@
       },
       "120218457": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/120218457/",
+        "status": "REDO"
+      },
+      "120619947": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/hagalund/120619947/",
         "status": "REDO"
       }
     },

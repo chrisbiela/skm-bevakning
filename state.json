@@ -945,6 +945,14 @@
       "126677955": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/gamla-slottsbron/126677955/",
         "status": "REDO"
+      },
+      "123987315": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/123987315/",
+        "status": "REDO"
+      },
+      "126488817": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/126488817/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1837,6 +1845,10 @@
       },
       "127007699": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127007699/",
+        "status": "Till salu"
+      },
+      "103605788": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/odakra/103605788/",
         "status": "Till salu"
       }
     }

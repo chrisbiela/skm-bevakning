@@ -953,6 +953,10 @@
       "126488817": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/126488817/",
         "status": "Till salu"
+      },
+      "127287847": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/karlstad/127287847/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1850,6 +1854,10 @@
       "103605788": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/odakra/103605788/",
         "status": "Till salu"
+      },
+      "119477803": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/119477803/",
+        "status": "REDO"
       }
     }
   },

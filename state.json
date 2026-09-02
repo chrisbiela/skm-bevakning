@@ -963,6 +963,10 @@
       "124017671": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124017671/",
         "status": "Till salu"
+      },
+      "125646317": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/125646317/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1154,7 +1158,8 @@
       },
       "112479495": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/fredriksdal/112479495/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-02"
       },
       "125120247": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/125120247/",

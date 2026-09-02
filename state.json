@@ -975,6 +975,10 @@
       "123824583": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/123824583/",
         "status": "Till salu"
+      },
+      "92008696": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/92008696/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1431,7 +1435,8 @@
       },
       "115839573": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/115839573/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-02"
       },
       "116649265": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/ringstorp/116649265/",

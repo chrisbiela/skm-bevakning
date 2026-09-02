@@ -971,6 +971,10 @@
       "126980341": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/forshaga/126980341/",
         "status": "REDO"
+      },
+      "123824583": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/123824583/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1331,7 +1335,8 @@
       },
       "123731441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/fredriksdal/123731441/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-02"
       },
       "122740037": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/rydeback/122740037/",

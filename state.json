@@ -26,8 +26,10 @@
       },
       "124318851": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/marieberg/124318851/",
-        "status": "Till salu",
-        "item_id": "3158705469"
+        "status": "Såld",
+        "item_id": "3158705469",
+        "andrad": "2026-09-03",
+        "sald": "2026-09-03"
       },
       "125822747": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/lovnas/125822747/",
@@ -1009,8 +1011,9 @@
       },
       "124031959": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/124031959/",
-        "status": "Till salu",
-        "andrad": "2026-08-23"
+        "status": "Såld",
+        "andrad": "2026-09-03",
+        "sald": "2026-09-03"
       },
       "104367834": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/104367834/",

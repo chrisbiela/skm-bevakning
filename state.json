@@ -36,8 +36,9 @@
       },
       "120454071": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/olme/120454071/",
-        "status": "REDO",
-        "item_id": "3158711497"
+        "status": "Till salu",
+        "item_id": "3158711497",
+        "andrad": "2026-09-03"
       },
       "125073943": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/125073943/",
@@ -1904,6 +1905,10 @@
       "126270999": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/mariastaden/126270999/",
         "status": "REDO"
+      },
+      "126443903": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/ingelstrade/126443903/",
+        "status": "Till salu"
       }
     }
   },

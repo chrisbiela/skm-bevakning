@@ -979,6 +979,10 @@
       "92008696": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/92008696/",
         "status": "Till salu"
+      },
+      "126690521": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/sodra-kroppkarr/126690521/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1895,6 +1899,10 @@
       },
       "126127111": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ramlosa/ramlosa/126127111/",
+        "status": "REDO"
+      },
+      "126270999": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/mariastaden/126270999/",
         "status": "REDO"
       }
     }

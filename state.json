@@ -323,7 +323,9 @@
       },
       "123714821": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/valberg/valberg/123714821/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-09-04",
+        "sald": "2026-09-04"
       },
       "124480875": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124480875/",
@@ -335,7 +337,9 @@
       },
       "122835835": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/122835835/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-04",
+        "sald": "2026-09-04"
       },
       "123095717": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/123095717/",
@@ -788,8 +792,10 @@
       },
       "126923481": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/stockfallet/126923481/",
-        "status": "Till salu",
-        "item_id": "3162558565"
+        "status": "Såld",
+        "item_id": "3162558565",
+        "andrad": "2026-09-04",
+        "sald": "2026-09-04"
       },
       "125705101": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/forshaga/grossbol/125705101/",
@@ -1000,6 +1006,10 @@
       "127587387": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/127587387/",
         "status": "Till salu"
+      },
+      "126564467": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/126564467/",
+        "status": "Såld"
       }
     },
     "Helsingborg": {
@@ -1784,9 +1794,10 @@
       },
       "121700671": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/larod/121700671/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3173917181",
-        "andrad": "2026-08-21"
+        "andrad": "2026-09-04",
+        "sald": "2026-09-04"
       },
       "127086969": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127086969/",

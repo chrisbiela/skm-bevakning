@@ -1053,6 +1053,10 @@
       "126155123": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/hultsberg/126155123/",
         "status": "REDO"
+      },
+      "126616993": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/norra-kroppkarr/126616993/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1939,7 +1943,9 @@
       },
       "126759327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126759327/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-07",
+        "sald": "2026-09-07"
       },
       "126844661": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/soder/126844661/",

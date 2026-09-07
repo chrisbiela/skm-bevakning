@@ -236,7 +236,8 @@
       },
       "123542261": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/alster/123542261/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-07"
       },
       "125616441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/grums/grums/125616441/",
@@ -1048,6 +1049,10 @@
       "127489463": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/127489463/",
         "status": "Till salu"
+      },
+      "126155123": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/hultsberg/126155123/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {

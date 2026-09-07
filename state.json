@@ -1023,6 +1023,18 @@
       "120951609": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/120951609/",
         "status": "REDO"
+      },
+      "126749421": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/valberg/segerstad/126749421/",
+        "status": "REDO"
+      },
+      "124760231": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/grava/124760231/",
+        "status": "REDO"
+      },
+      "126882757": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/kvarnberget/126882757/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1958,7 +1970,8 @@
       },
       "127079207": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/127079207/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-07"
       },
       "127333065": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/olympia/127333065/",

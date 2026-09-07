@@ -815,8 +815,10 @@
       },
       "101866716": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/farjestad/101866716/",
-        "status": "REDO",
-        "item_id": "3167150299"
+        "status": "Såld",
+        "item_id": "3167150299",
+        "andrad": "2026-09-07",
+        "sald": "2026-09-07"
       },
       "122600583": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/ulvsby-lindragen/122600583/",
@@ -1038,6 +1040,10 @@
       "126882757": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/kvarnberget/126882757/",
         "status": "Till salu"
+      },
+      "126486933": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/hammaro/126486933/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1961,7 +1967,8 @@
       },
       "126270999": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/mariastaden/126270999/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-07"
       },
       "126443903": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/ingelstrade/126443903/",

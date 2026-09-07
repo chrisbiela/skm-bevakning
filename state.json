@@ -838,8 +838,10 @@
       },
       "125522499": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/stockfallet/125522499/",
-        "status": "Till salu",
-        "item_id": "3171922299"
+        "status": "Såld",
+        "item_id": "3171922299",
+        "andrad": "2026-09-07",
+        "sald": "2026-09-07"
       },
       "125865169": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/jakobsberg/125865169/",
@@ -1992,6 +1994,10 @@
       },
       "127119877": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr-fria-bad/127119877/",
+        "status": "Till salu"
+      },
+      "121418563": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vasatorp/121418563/",
         "status": "Till salu"
       }
     }

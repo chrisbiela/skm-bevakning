@@ -1057,6 +1057,10 @@
       "126616993": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/norra-kroppkarr/126616993/",
         "status": "REDO"
+      },
+      "126868809": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/126868809/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1255,7 +1259,9 @@
       },
       "125120247": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/125120247/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-08",
+        "sald": "2026-09-08"
       },
       "122703931": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/bjuv/bjuv/122703931/",

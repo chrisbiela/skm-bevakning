@@ -944,7 +944,8 @@
       },
       "125880955": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skattkarr/125880955/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-08"
       },
       "120218457": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/120218457/",
@@ -1064,6 +1065,10 @@
       },
       "111220428": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/sodra-ratorp/111220428/",
+        "status": "Till salu"
+      },
+      "125585439": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/ratorp/125585439/",
         "status": "Till salu"
       }
     },
@@ -2038,6 +2043,10 @@
       },
       "126836277": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126836277/",
+        "status": "REDO"
+      },
+      "122864701": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/bjuv/bjuv/122864701/",
         "status": "REDO"
       }
     }

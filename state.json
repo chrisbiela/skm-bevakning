@@ -1078,6 +1078,10 @@
       "114747809": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/lorensberg/114747809/",
         "status": "REDO"
+      },
+      "127241757": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/forshaga/127241757/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1157,7 +1161,9 @@
       },
       "126488021": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/126488021/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-09",
+        "sald": "2026-09-09"
       },
       "126313323": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/126313323/",
@@ -1830,9 +1836,10 @@
       },
       "120242067": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/haradal/120242067/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3161960139",
-        "andrad": "2026-08-17"
+        "andrad": "2026-09-09",
+        "sald": "2026-09-09"
       },
       "121114203": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/121114203/",
@@ -2060,6 +2067,10 @@
       "126641897": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/city/126641897/",
         "status": "REDO"
+      },
+      "117563235": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/rebbelberga/117563235/",
+        "status": "Såld"
       }
     }
   },

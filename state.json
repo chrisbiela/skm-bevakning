@@ -2008,7 +2008,8 @@
       },
       "126127111": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ramlosa/ramlosa/126127111/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-09"
       },
       "126270999": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/mariastaden/126270999/",
@@ -2071,6 +2072,10 @@
       "117563235": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/rebbelberga/117563235/",
         "status": "Såld"
+      },
+      "126413327": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/126413327/",
+        "status": "Till salu"
       }
     }
   },

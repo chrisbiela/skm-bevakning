@@ -1090,6 +1090,10 @@
       "127022653": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/127022653/",
         "status": "REDO"
+      },
+      "126379387": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skoghall/126379387/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2107,6 +2111,14 @@
       },
       "126487735": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126487735/",
+        "status": "Till salu"
+      },
+      "127167203": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/127167203/",
+        "status": "Till salu"
+      },
+      "126184271": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/126184271/",
         "status": "Till salu"
       }
     }

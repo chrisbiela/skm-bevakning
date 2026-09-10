@@ -1084,6 +1084,10 @@
       "127241757": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/forshaga/127241757/",
         "status": "REDO"
+      },
+      "127022653": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/127022653/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2090,6 +2094,14 @@
       "121894635": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/olympia/121894635/",
         "status": "REDO"
+      },
+      "127718899": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/127718899/",
+        "status": "Till salu"
+      },
+      "123396211": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr/123396211/",
+        "status": "Till salu"
       }
     }
   },

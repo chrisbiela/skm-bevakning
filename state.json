@@ -893,8 +893,10 @@
       },
       "124818319": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/filipstad/paradishyttan/124818319/",
-        "status": "Till salu",
-        "item_id": "3182906342"
+        "status": "Såld",
+        "item_id": "3182906342",
+        "andrad": "2026-09-11",
+        "sald": "2026-09-11"
       },
       "108330372": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/centrum-mitt-i-city/108330372/",
@@ -2039,7 +2041,9 @@
       },
       "127012639": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/bjuv/bjuv/127012639/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-11",
+        "sald": "2026-09-11"
       },
       "127079207": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/127079207/",
@@ -2100,7 +2104,8 @@
       },
       "127236839": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/hittarp/127236839/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-11"
       },
       "121894635": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/olympia/121894635/",

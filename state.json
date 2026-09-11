@@ -1093,7 +1093,8 @@
       },
       "126379387": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skoghall/126379387/",
-        "status": "Till salu"
+        "status": "REDO",
+        "andrad": "2026-09-11"
       }
     },
     "Helsingborg": {
@@ -1902,8 +1903,10 @@
       },
       "126381703": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/bjorkhagen/126381703/",
-        "status": "Till salu",
-        "item_id": "3177803721"
+        "status": "Såld",
+        "item_id": "3177803721",
+        "andrad": "2026-09-11",
+        "sald": "2026-09-11"
       },
       "124717651": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/fridhem/124717651/",
@@ -2000,7 +2003,9 @@
       },
       "127007699": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127007699/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-11",
+        "sald": "2026-09-11"
       },
       "103605788": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/odakra/103605788/",
@@ -2120,6 +2125,10 @@
       "126184271": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/126184271/",
         "status": "Till salu"
+      },
+      "126825351": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/lerberget/lerberget/126825351/",
+        "status": "REDO"
       }
     }
   },

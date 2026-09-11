@@ -861,8 +861,10 @@
       },
       "126380371": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/126380371/",
-        "status": "REDO",
-        "item_id": "3177796601"
+        "status": "Såld",
+        "item_id": "3177796601",
+        "andrad": "2026-09-11",
+        "sald": "2026-09-11"
       },
       "112940827": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/goteborgsudden/112940827/",
@@ -1097,6 +1099,10 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skoghall/126379387/",
         "status": "REDO",
         "andrad": "2026-09-11"
+      },
+      "127638361": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/127638361/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2134,6 +2140,10 @@
       "126825351": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/lerberget/lerberget/126825351/",
         "status": "REDO"
+      },
+      "127117609": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/harslov/harslov/127117609/",
+        "status": "Till salu"
       }
     }
   },

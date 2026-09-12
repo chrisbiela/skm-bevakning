@@ -1103,6 +1103,10 @@
       "127638361": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/127638361/",
         "status": "Till salu"
+      },
+      "124151437": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/grasas/124151437/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2017,7 +2021,9 @@
       },
       "103605788": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/odakra/103605788/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-12",
+        "sald": "2026-09-12"
       },
       "119477803": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/119477803/",
@@ -2074,7 +2080,9 @@
       },
       "127119877": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr-fria-bad/127119877/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-12",
+        "sald": "2026-09-12"
       },
       "121418563": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vasatorp/121418563/",

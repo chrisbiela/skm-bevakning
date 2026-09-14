@@ -1034,7 +1034,8 @@
       },
       "122036537": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/lovnas/122036537/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-14"
       },
       "127609317": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/edsgatan/127609317/",
@@ -1109,6 +1110,10 @@
       "124151437": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/grasas/124151437/",
         "status": "Till salu"
+      },
+      "124735923": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124735923/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2158,6 +2163,10 @@
       "123264791": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/viken/123264791/",
         "status": "Såld"
+      },
+      "127532833": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127532833/",
+        "status": "REDO"
       }
     }
   },

@@ -962,7 +962,8 @@
       },
       "120619947": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/hagalund/120619947/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-14"
       },
       "126848477": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/grava/126848477/",
@@ -1412,7 +1413,9 @@
       },
       "124587431": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/124587431/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-14",
+        "sald": "2026-09-14"
       },
       "122756043": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/odakra/122756043/",
@@ -2101,7 +2104,8 @@
       },
       "126836277": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126836277/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-14"
       },
       "122864701": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/bjuv/bjuv/122864701/",

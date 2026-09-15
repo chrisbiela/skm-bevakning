@@ -1024,7 +1024,8 @@
       },
       "115486215": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/115486215/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-15"
       },
       "127587387": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/127587387/",
@@ -1115,6 +1116,14 @@
       },
       "124735923": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124735923/",
+        "status": "REDO"
+      },
+      "127916315": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/haga/127916315/",
+        "status": "Till salu"
+      },
+      "124604311": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skattkarr/skattkarr/124604311/",
         "status": "REDO"
       }
     },

@@ -890,8 +890,9 @@
       },
       "113751111": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/113751111/",
-        "status": "REDO",
-        "item_id": "3182908071"
+        "status": "Till salu",
+        "item_id": "3182908071",
+        "andrad": "2026-09-15"
       },
       "124818319": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/filipstad/paradishyttan/124818319/",
@@ -2037,7 +2038,8 @@
       },
       "119477803": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/119477803/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-15"
       },
       "126455525": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/126455525/",
@@ -2171,6 +2173,14 @@
       "127532833": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127532833/",
         "status": "REDO"
+      },
+      "126869973": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/vasatorps-tradgard/126869973/",
+        "status": "REDO"
+      },
+      "123116779": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/larod/123116779/",
+        "status": "Till salu"
       }
     }
   },

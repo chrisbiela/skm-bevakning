@@ -1132,6 +1132,10 @@
       "126238671": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skoghall/hammaro/126238671/",
         "status": "REDO"
+      },
+      "126946555": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/molkom/126946555/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1150,8 +1154,10 @@
       },
       "126487045": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/centrum-angelholm/126487045/",
-        "status": "Till salu",
-        "item_id": "3158717340"
+        "status": "Såld",
+        "item_id": "3158717340",
+        "andrad": "2026-09-16",
+        "sald": "2026-09-16"
       },
       "124031959": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/124031959/",

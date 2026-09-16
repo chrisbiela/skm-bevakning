@@ -857,8 +857,10 @@
       },
       "126335837": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/126335837/",
-        "status": "Till salu",
-        "item_id": "3173906752"
+        "status": "Såld",
+        "item_id": "3173906752",
+        "andrad": "2026-09-16",
+        "sald": "2026-09-16"
       },
       "126380371": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/126380371/",
@@ -2203,6 +2205,10 @@
       "127287581": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/127287581/",
         "status": "REDO"
+      },
+      "127497607": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127497607/",
+        "status": "Till salu"
       }
     }
   },

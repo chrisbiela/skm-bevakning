@@ -56,8 +56,9 @@
       },
       "100836586": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/skaringsbol/100836586/",
-        "status": "REDO",
-        "item_id": "3158712218"
+        "status": "Till salu",
+        "item_id": "3158712218",
+        "andrad": "2026-09-16"
       },
       "126476421": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126476421/",
@@ -2198,6 +2199,10 @@
       "122755935": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/skalderviken/122755935/",
         "status": "Till salu"
+      },
+      "127287581": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/127287581/",
+        "status": "REDO"
       }
     }
   },

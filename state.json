@@ -1197,8 +1197,9 @@
       },
       "120770349": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/ringstorp/120770349/",
-        "status": "Till salu",
-        "andrad": "2026-08-16"
+        "status": "Såld",
+        "andrad": "2026-09-17",
+        "sald": "2026-09-17"
       },
       "126313565": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/126313565/",
@@ -2194,7 +2195,8 @@
       },
       "127532833": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127532833/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-17"
       },
       "126869973": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/vasatorps-tradgard/126869973/",
@@ -2214,6 +2216,18 @@
       },
       "127497607": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127497607/",
+        "status": "Till salu"
+      },
+      "127263371": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/adolfsberg/127263371/",
+        "status": "Till salu"
+      },
+      "126592071": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/126592071/",
+        "status": "REDO"
+      },
+      "126245231": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/saxtorp/126245231/",
         "status": "Till salu"
       }
     }

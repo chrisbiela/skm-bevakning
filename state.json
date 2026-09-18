@@ -919,7 +919,8 @@
       },
       "127090791": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/127090791/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-18"
       },
       "123462771": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ostra-amtervik/ostra-amtervik/123462771/",
@@ -1098,7 +1099,8 @@
       },
       "127241757": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/forshaga/127241757/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-18"
       },
       "127022653": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/127022653/",
@@ -1135,6 +1137,10 @@
       },
       "126946555": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/molkom/126946555/",
+        "status": "Till salu"
+      },
+      "121540779": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/viken/121540779/",
         "status": "Till salu"
       }
     },
@@ -2044,8 +2050,9 @@
       },
       "126160329": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/126160329/",
-        "status": "Till salu",
-        "andrad": "2026-09-04"
+        "status": "Såld",
+        "andrad": "2026-09-18",
+        "sald": "2026-09-18"
       },
       "127007699": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127007699/",
@@ -2228,6 +2235,18 @@
       },
       "126245231": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/saxtorp/126245231/",
+        "status": "Till salu"
+      },
+      "126750953": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/haljarp/haljarp/126750953/",
+        "status": "Till salu"
+      },
+      "98044012": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/larod/98044012/",
+        "status": "Till salu"
+      },
+      "121693521": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/eskilsminne/121693521/",
         "status": "Till salu"
       }
     }

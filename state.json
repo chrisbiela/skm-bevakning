@@ -2102,8 +2102,9 @@
       },
       "127079207": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/127079207/",
-        "status": "Till salu",
-        "andrad": "2026-09-07"
+        "status": "Såld",
+        "andrad": "2026-09-19",
+        "sald": "2026-09-19"
       },
       "127333065": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/olympia/127333065/",
@@ -2248,6 +2249,14 @@
       },
       "121693521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/eskilsminne/121693521/",
+        "status": "Till salu"
+      },
+      "126466711": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/landskrona/landskrona/126466711/",
+        "status": "Till salu"
+      },
+      "127670497": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/hogasten/127670497/",
         "status": "Till salu"
       }
     }

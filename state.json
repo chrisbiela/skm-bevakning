@@ -888,8 +888,9 @@
       },
       "124269929": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124269929/",
-        "status": "REDO",
-        "item_id": "3182908070"
+        "status": "Till salu",
+        "item_id": "3182908070",
+        "andrad": "2026-09-21"
       },
       "113751111": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/113751111/",
@@ -1518,8 +1519,8 @@
       },
       "123731441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/fredriksdal/123731441/",
-        "status": "Till salu",
-        "andrad": "2026-09-02"
+        "status": "REDO",
+        "andrad": "2026-09-21"
       },
       "122740037": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/rydeback/122740037/",
@@ -1983,9 +1984,10 @@
       },
       "126954551": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/viken/viken/126954551/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3180549988",
-        "andrad": "2026-08-26"
+        "andrad": "2026-09-21",
+        "sald": "2026-09-21"
       },
       "97427336": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/nyvang/nyvang/97427336/",
@@ -2266,6 +2268,14 @@
       "126756141": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kagerod/126756141/",
         "status": "Till salu"
+      },
+      "123789741": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/123789741/",
+        "status": "Till salu"
+      },
+      "87532806": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vasatorps-tradgard/87532806/",
+        "status": "REDO"
       }
     }
   },

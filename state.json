@@ -2130,7 +2130,9 @@
       },
       "126552903": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126552903/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-22",
+        "sald": "2026-09-22"
       },
       "127119877": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr-fria-bad/127119877/",
@@ -2281,6 +2283,14 @@
       "87532806": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vasatorps-tradgard/87532806/",
         "status": "REDO"
+      },
+      "127813669": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/helsingborg-centrum/127813669/",
+        "status": "Till salu"
+      },
+      "127484909": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/elineberg/127484909/",
+        "status": "Såld"
       }
     }
   },

@@ -56,9 +56,10 @@
       },
       "100836586": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/skaringsbol/100836586/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3158712218",
-        "andrad": "2026-09-16"
+        "andrad": "2026-09-23",
+        "sald": "2026-09-23"
       },
       "126476421": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126476421/",
@@ -970,8 +971,9 @@
       },
       "120619947": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/hagalund/120619947/",
-        "status": "Till salu",
-        "andrad": "2026-09-14"
+        "status": "Såld",
+        "andrad": "2026-09-23",
+        "sald": "2026-09-23"
       },
       "126848477": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/grava/126848477/",
@@ -1150,6 +1152,14 @@
       },
       "117131169": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/anneberg/117131169/",
+        "status": "Till salu"
+      },
+      "127504663": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/filipstad/filipstad/127504663/",
+        "status": "REDO"
+      },
+      "126900217": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/sundsta/126900217/",
         "status": "Till salu"
       }
     },
@@ -2092,8 +2102,9 @@
       },
       "126127111": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ramlosa/ramlosa/126127111/",
-        "status": "Till salu",
-        "andrad": "2026-09-09"
+        "status": "Såld",
+        "andrad": "2026-09-23",
+        "sald": "2026-09-23"
       },
       "126270999": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/mariastaden/126270999/",
@@ -2238,7 +2249,9 @@
       },
       "127497607": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127497607/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-23",
+        "sald": "2026-09-23"
       },
       "127263371": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/adolfsberg/127263371/",
@@ -2295,6 +2308,14 @@
       "127648525": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/saxtorp/127648525/",
         "status": "Till salu"
+      },
+      "127645917": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr/127645917/",
+        "status": "REDO"
+      },
+      "127077803": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/husensjo/127077803/",
+        "status": "REDO"
       }
     }
   },

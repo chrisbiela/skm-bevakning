@@ -958,7 +958,8 @@
       },
       "126125291": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126125291/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-24"
       },
       "125880955": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skattkarr/125880955/",
@@ -1161,6 +1162,14 @@
       "126900217": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/sundsta/126900217/",
         "status": "Till salu"
+      },
+      "99246368": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/99246368/",
+        "status": "REDO"
+      },
+      "127298481": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/127298481/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1387,7 +1396,8 @@
       },
       "126044479": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/orkelljunga/fasalt/126044479/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-24"
       },
       "125582739": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden-centrum/125582739/",

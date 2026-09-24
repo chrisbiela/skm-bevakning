@@ -1018,7 +1018,9 @@
       },
       "123824583": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/123824583/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-24",
+        "sald": "2026-09-24"
       },
       "92008696": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/92008696/",
@@ -1102,7 +1104,9 @@
       },
       "114747809": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/lorensberg/114747809/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-09-24",
+        "sald": "2026-09-24"
       },
       "127241757": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/forshaga/127241757/",
@@ -2329,6 +2333,10 @@
       },
       "127587005": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/dalhem/127587005/",
+        "status": "REDO"
+      },
+      "127720655": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/ramlosa/127720655/",
         "status": "REDO"
       }
     }

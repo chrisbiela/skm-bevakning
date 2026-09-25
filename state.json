@@ -1009,7 +1009,9 @@
       },
       "125646317": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/125646317/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-25",
+        "sald": "2026-09-25"
       },
       "126980341": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/forshaga/126980341/",
@@ -1174,6 +1176,10 @@
       "127298481": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/127298481/",
         "status": "REDO"
+      },
+      "126766407": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/bryggudden/126766407/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2333,11 +2339,28 @@
       },
       "127587005": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/dalhem/127587005/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-25"
       },
       "127720655": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/ramlosa/127720655/",
         "status": "REDO"
+      },
+      "128056327": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/paarp/paarp/128056327/",
+        "status": "REDO"
+      },
+      "126809605": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126809605/",
+        "status": "Till salu"
+      },
+      "127163849": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/viken/127163849/",
+        "status": "REDO"
+      },
+      "127742681": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127742681/",
+        "status": "Till salu"
       }
     }
   },

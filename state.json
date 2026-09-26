@@ -1078,7 +1078,9 @@
       },
       "126486933": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/hammaro/126486933/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-09-26",
+        "sald": "2026-09-26"
       },
       "127489463": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/127489463/",
@@ -2363,6 +2365,10 @@
       "127742681": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127742681/",
         "status": "Till salu"
+      },
+      "123469917": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/123469917/",
+        "status": "REDO"
       }
     }
   },

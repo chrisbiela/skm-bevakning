@@ -1093,7 +1093,9 @@
       },
       "126616993": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/norra-kroppkarr/126616993/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-09-27",
+        "sald": "2026-09-27"
       },
       "126868809": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/126868809/",
@@ -2373,6 +2375,10 @@
       "127606441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127606441/",
         "status": "REDO"
+      },
+      "127608521": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/127608521/",
+        "status": "Till salu"
       }
     }
   },

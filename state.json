@@ -890,9 +890,10 @@
       },
       "124269929": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124269929/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3182908070",
-        "andrad": "2026-09-21"
+        "andrad": "2026-09-28",
+        "sald": "2026-09-28"
       },
       "113751111": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/113751111/",
@@ -1190,6 +1191,14 @@
       "119856893": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/119856893/",
         "status": "REDO"
+      },
+      "127333525": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/127333525/",
+        "status": "Till salu"
+      },
+      "126364205": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/hammaro/126364205/",
+        "status": "Såld"
       }
     },
     "Helsingborg": {
@@ -2305,7 +2314,9 @@
       },
       "121693521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/eskilsminne/121693521/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-28",
+        "sald": "2026-09-28"
       },
       "126466711": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/landskrona/landskrona/126466711/",
@@ -2379,7 +2390,8 @@
       },
       "127606441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127606441/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-28"
       },
       "127608521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/127608521/",

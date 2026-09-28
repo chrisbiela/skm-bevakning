@@ -1035,8 +1035,9 @@
       },
       "126755737": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/126755737/",
-        "status": "Till salu",
-        "andrad": "2026-09-08"
+        "status": "Såld",
+        "andrad": "2026-09-28",
+        "sald": "2026-09-28"
       },
       "115486215": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/115486215/",
@@ -1185,6 +1186,10 @@
       "126766407": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/bryggudden/126766407/",
         "status": "Till salu"
+      },
+      "119856893": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/119856893/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2378,6 +2383,10 @@
       },
       "127608521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/127608521/",
+        "status": "Till salu"
+      },
+      "127812711": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127812711/",
         "status": "Till salu"
       }
     }

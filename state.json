@@ -952,7 +952,9 @@
       },
       "126047883": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/hammar/126047883/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-29",
+        "sald": "2026-09-29"
       },
       "123340755": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/123340755/",
@@ -1109,7 +1111,9 @@
       },
       "125585439": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/ratorp/125585439/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-29",
+        "sald": "2026-09-29"
       },
       "114747809": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/lorensberg/114747809/",
@@ -2205,7 +2209,8 @@
       },
       "122864701": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/bjuv/bjuv/122864701/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-29"
       },
       "126641897": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/city/126641897/",
@@ -2400,6 +2405,14 @@
       "127812711": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127812711/",
         "status": "Till salu"
+      },
+      "124242459": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr/124242459/",
+        "status": "Till salu"
+      },
+      "107760048": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/helsingborgs-maria/107760048/",
+        "status": "REDO"
       }
     }
   },

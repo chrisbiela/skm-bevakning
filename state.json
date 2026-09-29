@@ -1203,6 +1203,14 @@
       "126364205": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/hammaro/126364205/",
         "status": "Såld"
+      },
+      "120079891": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/120079891/",
+        "status": "Till salu"
+      },
+      "127125529": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/deje/nedre-ullerud/127125529/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2375,7 +2383,8 @@
       },
       "128056327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/paarp/paarp/128056327/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-09-29"
       },
       "126809605": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126809605/",

@@ -2211,7 +2211,9 @@
       },
       "121015681": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/valinge/121015681/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-30",
+        "sald": "2026-09-30"
       },
       "126836277": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126836277/",
@@ -2430,6 +2432,10 @@
       },
       "127858673": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/morarp/morarp/127858673/",
+        "status": "REDO"
+      },
+      "124769361": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/124769361/",
         "status": "REDO"
       }
     }

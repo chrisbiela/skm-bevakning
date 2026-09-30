@@ -1252,8 +1252,9 @@
       },
       "123429141": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/norr/123429141/",
-        "status": "Till salu",
-        "andrad": "2026-08-16"
+        "status": "Såld",
+        "andrad": "2026-09-30",
+        "sald": "2026-09-30"
       },
       "126487023": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/bjuv/bjuv/126487023/",
@@ -2325,7 +2326,9 @@
       },
       "98044012": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/larod/98044012/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-09-30",
+        "sald": "2026-09-30"
       },
       "121693521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/eskilsminne/121693521/",
@@ -2423,6 +2426,10 @@
       },
       "107760048": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/helsingborgs-maria/107760048/",
+        "status": "REDO"
+      },
+      "127858673": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/morarp/morarp/127858673/",
         "status": "REDO"
       }
     }

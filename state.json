@@ -1571,7 +1571,8 @@
       },
       "123791061": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastergard/123791061/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-01"
       },
       "108289016": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/planteringen/108289016/",
@@ -2111,7 +2112,9 @@
       },
       "126505045": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126505045/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-01",
+        "sald": "2026-10-01"
       },
       "126759327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126759327/",
@@ -2235,7 +2238,9 @@
       },
       "126413327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/126413327/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-01",
+        "sald": "2026-10-01"
       },
       "127079953": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/127079953/",

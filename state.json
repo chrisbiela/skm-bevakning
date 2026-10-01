@@ -1062,7 +1062,9 @@
       },
       "127609317": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/edsgatan/127609317/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-01",
+        "sald": "2026-10-01"
       },
       "120951609": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/120951609/",
@@ -1213,6 +1215,10 @@
       "127125529": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/deje/nedre-ullerud/127125529/",
         "status": "REDO"
+      },
+      "126483405": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/norrstrand/126483405/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2381,7 +2387,9 @@
       },
       "127077803": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/husensjo/127077803/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-10-01",
+        "sald": "2026-10-01"
       },
       "127587005": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/dalhem/127587005/",

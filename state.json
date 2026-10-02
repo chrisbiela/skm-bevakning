@@ -1221,6 +1221,18 @@
       "126483405": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/norrstrand/126483405/",
         "status": "Till salu"
+      },
+      "126881541": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/ostra-fagelvik/126881541/",
+        "status": "Till salu"
+      },
+      "127709383": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/127709383/",
+        "status": "REDO"
+      },
+      "118483371": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/118483371/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2194,7 +2206,9 @@
       },
       "127333065": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/olympia/127333065/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-02",
+        "sald": "2026-10-02"
       },
       "126713515": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/larod/126713515/",
@@ -2457,6 +2471,18 @@
       "118663445": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/118663445/",
         "status": "REDO"
+      },
+      "127608595": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/morarp/morarp/127608595/",
+        "status": "Till salu"
+      },
+      "127145809": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/127145809/",
+        "status": "Till salu"
+      },
+      "102134806": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/102134806/",
+        "status": "Till salu"
       }
     }
   },

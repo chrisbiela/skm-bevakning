@@ -2120,8 +2120,8 @@
       },
       "126505045": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126505045/",
-        "status": "Såld",
-        "andrad": "2026-10-01",
+        "status": "Till salu",
+        "andrad": "2026-10-02",
         "sald": "2026-10-01"
       },
       "126759327": {
@@ -2238,7 +2238,8 @@
       },
       "126641897": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/city/126641897/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-02"
       },
       "117563235": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/rebbelberga/117563235/",
@@ -2451,6 +2452,10 @@
       },
       "124769361": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/124769361/",
+        "status": "REDO"
+      },
+      "118663445": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/118663445/",
         "status": "REDO"
       }
     }

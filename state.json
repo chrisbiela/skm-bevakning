@@ -1233,6 +1233,10 @@
       "118483371": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/118483371/",
         "status": "Till salu"
+      },
+      "127507479": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/127507479/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2132,9 +2136,9 @@
       },
       "126505045": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126505045/",
-        "status": "Till salu",
-        "andrad": "2026-10-02",
-        "sald": "2026-10-01"
+        "status": "Såld",
+        "andrad": "2026-10-03",
+        "sald": "2026-10-03"
       },
       "126759327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126759327/",

@@ -1040,7 +1040,9 @@
       },
       "126690521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/sodra-kroppkarr/126690521/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-07",
+        "sald": "2026-10-07"
       },
       "126755737": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/126755737/",
@@ -1278,6 +1280,14 @@
       "126266701": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/126266701/",
         "status": "Till salu"
+      },
+      "127701809": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/127701809/",
+        "status": "Till salu"
+      },
+      "90631038": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/lungsund/90631038/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {

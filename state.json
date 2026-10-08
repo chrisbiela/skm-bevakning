@@ -1195,7 +1195,8 @@
       },
       "99246368": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/99246368/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-08"
       },
       "127298481": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/127298481/",
@@ -1292,6 +1293,10 @@
       "121198013": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/molkom/nyed/121198013/",
         "status": "REDO"
+      },
+      "126894107": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/sodra-kroppkarr/126894107/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2271,7 +2276,9 @@
       },
       "126713515": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/larod/126713515/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-08",
+        "sald": "2026-10-08"
       },
       "126956107": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/backadal/126956107/",
@@ -2348,7 +2355,9 @@
       },
       "126487735": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/126487735/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-08",
+        "sald": "2026-10-08"
       },
       "127167203": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/127167203/",
@@ -2579,6 +2588,10 @@
       },
       "126300191": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/astorp/bjornekulla/126300191/",
+        "status": "REDO"
+      },
+      "127500897": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ramlosa/ramlosa/127500897/",
         "status": "REDO"
       }
     }

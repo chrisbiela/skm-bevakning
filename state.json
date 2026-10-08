@@ -1288,6 +1288,10 @@
       "90631038": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/lungsund/90631038/",
         "status": "REDO"
+      },
+      "121198013": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/molkom/nyed/121198013/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2477,8 +2481,9 @@
       },
       "128056327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/paarp/paarp/128056327/",
-        "status": "Till salu",
-        "andrad": "2026-09-29"
+        "status": "Såld",
+        "andrad": "2026-10-08",
+        "sald": "2026-10-08"
       },
       "126809605": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/126809605/",
@@ -2549,7 +2554,8 @@
       },
       "128407641": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/nyhamn/128407641/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-08"
       },
       "128033447": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/husensjo/128033447/",
@@ -2570,6 +2576,10 @@
       "128254095": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/wilson-park/128254095/",
         "status": "Till salu"
+      },
+      "126300191": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/astorp/bjornekulla/126300191/",
+        "status": "REDO"
       }
     }
   },

@@ -1179,7 +1179,9 @@
       },
       "121540779": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/viken/121540779/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-09",
+        "sald": "2026-10-09"
       },
       "117131169": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/anneberg/117131169/",
@@ -1297,6 +1299,14 @@
       "126894107": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/sodra-kroppkarr/126894107/",
         "status": "Till salu"
+      },
+      "126034813": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/126034813/",
+        "status": "REDO"
+      },
+      "127795517": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/storfors/storfors/127795517/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2249,8 +2259,9 @@
       },
       "126270999": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/mariastaden/126270999/",
-        "status": "Till salu",
-        "andrad": "2026-09-07"
+        "status": "Såld",
+        "andrad": "2026-10-09",
+        "sald": "2026-10-09"
       },
       "126443903": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/ingelstrade/126443903/",
@@ -2593,6 +2604,14 @@
       "127500897": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ramlosa/ramlosa/127500897/",
         "status": "REDO"
+      },
+      "128162565": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/128162565/",
+        "status": "Till salu"
+      },
+      "124888939": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/narlunda/124888939/",
+        "status": "Till salu"
       }
     }
   },

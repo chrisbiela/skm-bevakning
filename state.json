@@ -1307,6 +1307,18 @@
       "127795517": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/storfors/storfors/127795517/",
         "status": "REDO"
+      },
+      "122359741": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/122359741/",
+        "status": "REDO"
+      },
+      "124249399": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/irisdal/124249399/",
+        "status": "REDO"
+      },
+      "127651427": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/inre-hamn/127651427/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2530,7 +2542,9 @@
       },
       "127608521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/127608521/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-09",
+        "sald": "2026-10-09"
       },
       "127812711": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen-helsingborg/127812711/",
@@ -2611,6 +2625,10 @@
       },
       "124888939": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/narlunda/124888939/",
+        "status": "Till salu"
+      },
+      "128113411": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/dalhem/128113411/",
         "status": "Till salu"
       }
     }

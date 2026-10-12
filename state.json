@@ -2202,7 +2202,9 @@
       },
       "125511277": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/bastad/forslov/125511277/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-12",
+        "sald": "2026-10-12"
       },
       "124614109": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/strovelstorp/strovelstorp/124614109/",
@@ -2493,7 +2495,8 @@
       },
       "87532806": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vasatorps-tradgard/87532806/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-12"
       },
       "127813669": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/helsingborg-centrum/127813669/",

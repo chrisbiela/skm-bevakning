@@ -890,8 +890,10 @@
       },
       "126585855": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/inre-hamn/126585855/",
-        "status": "Till salu",
-        "item_id": "3178987245"
+        "status": "Såld",
+        "item_id": "3178987245",
+        "andrad": "2026-10-13",
+        "sald": "2026-10-13"
       },
       "124269929": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/124269929/",
@@ -1352,6 +1354,10 @@
       },
       "121817933": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/121817933/",
+        "status": "REDO"
+      },
+      "126442031": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kil/tolita/126442031/",
         "status": "REDO"
       }
     },

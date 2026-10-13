@@ -1234,7 +1234,9 @@
       },
       "127125529": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/deje/nedre-ullerud/127125529/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-10-13",
+        "sald": "2026-10-13"
       },
       "126483405": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/norrstrand/126483405/",
@@ -1335,6 +1337,22 @@
       "119954909": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/119954909/",
         "status": "Till salu"
+      },
+      "109377568": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/kristinehamn/klingstorpsviken/109377568/",
+        "status": "REDO"
+      },
+      "108941738": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/tynas/108941738/",
+        "status": "REDO"
+      },
+      "128717747": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/karlstad/edsgatan/128717747/",
+        "status": "Till salu"
+      },
+      "121817933": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/121817933/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2557,8 +2575,9 @@
       },
       "127606441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127606441/",
-        "status": "Till salu",
-        "andrad": "2026-09-28"
+        "status": "Såld",
+        "andrad": "2026-10-13",
+        "sald": "2026-10-13"
       },
       "127608521": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/127608521/",

@@ -1148,8 +1148,8 @@
       },
       "126379387": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skoghall/126379387/",
-        "status": "REDO",
-        "andrad": "2026-09-11"
+        "status": "Till salu",
+        "andrad": "2026-10-14"
       },
       "127638361": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/127638361/",
@@ -1358,6 +1358,10 @@
       },
       "126442031": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kil/tolita/126442031/",
+        "status": "REDO"
+      },
+      "125778305": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/sunne/ingmar/125778305/",
         "status": "REDO"
       }
     },
@@ -2272,7 +2276,9 @@
       },
       "126844661": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/soder/126844661/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-14",
+        "sald": "2026-10-14"
       },
       "126160329": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/attekulla/126160329/",
@@ -2515,7 +2521,9 @@
       },
       "123789741": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/123789741/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-14",
+        "sald": "2026-10-14"
       },
       "87532806": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vasatorps-tradgard/87532806/",

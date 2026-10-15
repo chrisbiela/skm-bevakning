@@ -927,8 +927,9 @@
       },
       "126650635": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/126650635/",
-        "status": "Till salu",
-        "andrad": "2026-09-08"
+        "status": "Såld",
+        "andrad": "2026-10-15",
+        "sald": "2026-10-15"
       },
       "127090791": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/127090791/",
@@ -1070,8 +1071,8 @@
       },
       "122036537": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/lovnas/122036537/",
-        "status": "Till salu",
-        "andrad": "2026-09-14"
+        "status": "REDO",
+        "andrad": "2026-10-15"
       },
       "127609317": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/edsgatan/127609317/",
@@ -2621,7 +2622,8 @@
       },
       "124769361": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/124769361/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-15"
       },
       "118663445": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/118663445/",

@@ -1368,6 +1368,10 @@
       "127851885": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/vaxnas/127851885/",
         "status": "REDO"
+      },
+      "125274397": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/norrstrand/125274397/",
+        "status": "Såld"
       }
     },
     "Helsingborg": {
@@ -2618,7 +2622,9 @@
       },
       "127858673": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/morarp/morarp/127858673/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-10-15",
+        "sald": "2026-10-15"
       },
       "124769361": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/124769361/",

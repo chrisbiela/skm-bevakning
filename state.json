@@ -1373,6 +1373,10 @@
       "125274397": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/norrstrand/125274397/",
         "status": "Såld"
+      },
+      "128579515": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128579515/",
+        "status": "Såld"
       }
     },
     "Helsingborg": {
@@ -2724,6 +2728,14 @@
       "128554925": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/gustavslund/128554925/",
         "status": "Till salu"
+      },
+      "128355553": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/drottninghog/128355553/",
+        "status": "Till salu"
+      },
+      "128502327": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/128502327/",
+        "status": "REDO"
       }
     }
   },

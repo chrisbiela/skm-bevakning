@@ -1377,6 +1377,10 @@
       "128579515": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128579515/",
         "status": "Såld"
+      },
+      "127033639": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/ostra-fagelvik/127033639/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2147,9 +2151,10 @@
       },
       "121114203": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/121114203/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3162570053",
-        "andrad": "2026-08-23"
+        "andrad": "2026-10-16",
+        "sald": "2026-10-16"
       },
       "103086186": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/ringstorp/103086186/",
@@ -2735,7 +2740,8 @@
       },
       "128502327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/128502327/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-16"
       }
     }
   },

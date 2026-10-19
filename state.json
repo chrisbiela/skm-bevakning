@@ -971,8 +971,9 @@
       },
       "126125291": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/126125291/",
-        "status": "Till salu",
-        "andrad": "2026-09-24"
+        "status": "Såld",
+        "andrad": "2026-10-19",
+        "sald": "2026-10-19"
       },
       "125880955": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skattkarr/125880955/",
@@ -1383,6 +1384,11 @@
       "127033639": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/ostra-fagelvik/127033639/",
         "status": "REDO"
+      },
+      "128912075": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/128912075/",
+        "status": "REDO",
+        "item_id": "3293738949"
       }
     },
     "Helsingborg": {
@@ -1472,7 +1478,8 @@
       },
       "126313323": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/126313323/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-19"
       },
       "125539249": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/gard/kagerod/kagerod/125539249/",
@@ -2459,7 +2466,9 @@
       },
       "126184271": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/126184271/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-19",
+        "sald": "2026-10-19"
       },
       "126825351": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/lerberget/lerberget/126825351/",
@@ -2726,7 +2735,8 @@
       },
       "128394833": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/128394833/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-19"
       },
       "122801633": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/122801633/",
@@ -2748,6 +2758,11 @@
       "128425223": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/128425223/",
         "status": "Till salu"
+      },
+      "117664437": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/hoganas/117664437/",
+        "status": "Till salu",
+        "item_id": "3293718678"
       }
     }
   },

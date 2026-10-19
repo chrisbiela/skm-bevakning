@@ -1401,9 +1401,10 @@
       },
       "121174601": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/gustavslund/121174601/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3158716802",
-        "andrad": "2026-08-23"
+        "andrad": "2026-10-19",
+        "sald": "2026-10-19"
       },
       "126487045": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/centrum-angelholm/126487045/",
@@ -2617,7 +2618,8 @@
       },
       "123469917": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/123469917/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-19"
       },
       "127606441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127606441/",
@@ -2687,7 +2689,9 @@
       },
       "128518175": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/mariastaden/128518175/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-19",
+        "sald": "2026-10-19"
       },
       "128142801": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/128142801/",
@@ -2763,6 +2767,16 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/hoganas/117664437/",
         "status": "Till salu",
         "item_id": "3293718678"
+      },
+      "127791541": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/127791541/",
+        "status": "Till salu",
+        "item_id": "3294672185"
+      },
+      "127792949": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/127792949/",
+        "status": "Till salu",
+        "item_id": "3294648411"
       }
     }
   },

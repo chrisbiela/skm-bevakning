@@ -1389,6 +1389,16 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/128912075/",
         "status": "REDO",
         "item_id": "3293738949"
+      },
+      "120470555": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/klara/120470555/",
+        "status": "REDO",
+        "item_id": "3296191531"
+      },
+      "128939833": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/128939833/",
+        "status": "Till salu",
+        "item_id": "3296194616"
       }
     },
     "Helsingborg": {
@@ -2216,9 +2226,10 @@
       },
       "124717651": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/fridhem/124717651/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3177890035",
-        "andrad": "2026-08-31"
+        "andrad": "2026-10-20",
+        "sald": "2026-10-20"
       },
       "119148849": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/119148849/",
@@ -2777,6 +2788,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/127792949/",
         "status": "Till salu",
         "item_id": "3294648411"
+      },
+      "128291769": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/odakra/odakra/128291769/",
+        "status": "Till salu",
+        "item_id": "3296184762"
       }
     }
   },

@@ -1296,7 +1296,8 @@
       },
       "115628745": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/tynas/115628745/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-21"
       },
       "126266701": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/126266701/",
@@ -1416,6 +1417,11 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128242681/",
         "status": "REDO",
         "item_id": "3299788299"
+      },
+      "121168389": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/edsvalla/grums/121168389/",
+        "status": "REDO",
+        "item_id": "3300898273"
       }
     },
     "Helsingborg": {
@@ -2357,12 +2363,15 @@
       },
       "119477803": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/119477803/",
-        "status": "Till salu",
-        "andrad": "2026-09-15"
+        "status": "Såld",
+        "andrad": "2026-10-21",
+        "sald": "2026-10-21"
       },
       "126455525": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/landskrona/vastra-faladen/126455525/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-21",
+        "sald": "2026-10-21"
       },
       "117311025": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/bjuv/bjuv/117311025/",

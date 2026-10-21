@@ -1372,7 +1372,8 @@
       },
       "127851885": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/vaxnas/127851885/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-21"
       },
       "125274397": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/norrstrand/125274397/",
@@ -1400,6 +1401,21 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/128939833/",
         "status": "Till salu",
         "item_id": "3296194616"
+      },
+      "128057009": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/stenfallet/128057009/",
+        "status": "Till salu",
+        "item_id": "3299789801"
+      },
+      "124930459": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/kristinehamn/kristinehamns-skargard/124930459/",
+        "status": "REDO",
+        "item_id": "3299788288"
+      },
+      "128242681": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128242681/",
+        "status": "REDO",
+        "item_id": "3299788299"
       }
     },
     "Helsingborg": {

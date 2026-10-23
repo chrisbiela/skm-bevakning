@@ -1411,8 +1411,10 @@
       },
       "124930459": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/kristinehamn/kristinehamns-skargard/124930459/",
-        "status": "REDO",
-        "item_id": "3299788288"
+        "status": "Såld",
+        "item_id": "3299788288",
+        "andrad": "2026-10-23",
+        "sald": "2026-10-23"
       },
       "128242681": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128242681/",
@@ -1428,6 +1430,16 @@
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/bjorkas/122851409/",
         "status": "REDO",
         "item_id": "3302696942"
+      },
+      "127912979": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/valberg/nor/127912979/",
+        "status": "REDO",
+        "item_id": "3305529035"
+      },
+      "128121435": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128121435/",
+        "status": "REDO",
+        "item_id": "3305518545"
       }
     },
     "Helsingborg": {

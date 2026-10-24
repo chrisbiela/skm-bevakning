@@ -1253,7 +1253,9 @@
       },
       "126881541": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/ostra-fagelvik/126881541/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-24",
+        "sald": "2026-10-24"
       },
       "127709383": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/127709383/",
@@ -2517,7 +2519,9 @@
       },
       "127718899": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/127718899/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-24",
+        "sald": "2026-10-24"
       },
       "123396211": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/norr/123396211/",
@@ -2848,8 +2852,10 @@
       },
       "128291769": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/odakra/odakra/128291769/",
-        "status": "Till salu",
-        "item_id": "3296184762"
+        "status": "Såld",
+        "item_id": "3296184762",
+        "andrad": "2026-10-24",
+        "sald": "2026-10-24"
       }
     }
   },

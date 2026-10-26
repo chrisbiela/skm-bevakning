@@ -35,8 +35,9 @@
       },
       "125822747": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/lovnas/125822747/",
-        "status": "REDO",
-        "item_id": "3158716281"
+        "status": "Till salu",
+        "item_id": "3158716281",
+        "andrad": "2026-10-26"
       },
       "120454071": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/olme/120454071/",
@@ -1459,6 +1460,10 @@
       "128163981": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/rud/128163981/",
         "status": "Till salu"
+      },
+      "124868893": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/molkom/nyed/124868893/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1836,8 +1841,8 @@
       },
       "123731441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/fredriksdal/123731441/",
-        "status": "REDO",
-        "andrad": "2026-09-21"
+        "status": "Till salu",
+        "andrad": "2026-10-26"
       },
       "122740037": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/rydeback/122740037/",
@@ -2344,7 +2349,8 @@
       },
       "126157577": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/126157577/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-26"
       },
       "114482921": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/114482921/",
@@ -2561,8 +2567,9 @@
       },
       "127532833": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127532833/",
-        "status": "Till salu",
-        "andrad": "2026-09-17"
+        "status": "Såld",
+        "andrad": "2026-10-26",
+        "sald": "2026-10-26"
       },
       "126869973": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/vasatorps-tradgard/126869973/",
@@ -2761,7 +2768,9 @@
       },
       "128033447": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/husensjo/128033447/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-26",
+        "sald": "2026-10-26"
       },
       "128518175": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/mariastaden/128518175/",
@@ -2803,7 +2812,8 @@
       },
       "127844919": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/127844919/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-26"
       },
       "127910313": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/centrum/127910313/",

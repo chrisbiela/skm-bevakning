@@ -1464,6 +1464,10 @@
       "124868893": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/molkom/nyed/124868893/",
         "status": "REDO"
+      },
+      "129101725": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/129101725/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -1761,7 +1765,8 @@
       },
       "98571782": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/barslov/98571782/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-27"
       },
       "112863153": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/112863153/",

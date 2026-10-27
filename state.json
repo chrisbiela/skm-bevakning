@@ -1222,7 +1222,9 @@
       },
       "126766407": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/bryggudden/126766407/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-27",
+        "sald": "2026-10-27"
       },
       "119856893": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/119856893/",
@@ -2879,6 +2881,18 @@
       "102486508": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/astorp/astorp/102486508/",
         "status": "Till salu"
+      },
+      "127976047": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/127976047/",
+        "status": "Till salu"
+      },
+      "128021101": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/kroneslatt/128021101/",
+        "status": "Såld"
+      },
+      "126646281": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/126646281/",
+        "status": "Såld"
       }
     }
   },

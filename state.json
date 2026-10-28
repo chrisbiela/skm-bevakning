@@ -1470,6 +1470,10 @@
       "129101725": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/129101725/",
         "status": "Till salu"
+      },
+      "127754267": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/hagaborg/127754267/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2632,7 +2636,9 @@
       },
       "126466711": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/landskrona/landskrona/126466711/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-10-28",
+        "sald": "2026-10-28"
       },
       "127670497": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/hogasten/127670497/",

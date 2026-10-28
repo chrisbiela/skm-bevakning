@@ -2754,7 +2754,9 @@
       },
       "118663445": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/118663445/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-10-28",
+        "sald": "2026-10-28"
       },
       "127608595": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/morarp/morarp/127608595/",
@@ -2900,6 +2902,10 @@
       "126646281": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/126646281/",
         "status": "Såld"
+      },
+      "126164141": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/mjohult/gunnestorp/126164141/",
+        "status": "Till salu"
       }
     }
   },

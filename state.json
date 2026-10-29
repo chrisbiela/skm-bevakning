@@ -1478,6 +1478,14 @@
       "123684453": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/lorensberg/123684453/",
         "status": "Till salu"
+      },
+      "127451417": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skoghall/hammaro/127451417/",
+        "status": "REDO"
+      },
+      "128795123": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/farjestad/128795123/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2876,8 +2884,10 @@
       },
       "127791541": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/127791541/",
-        "status": "Till salu",
-        "item_id": "3294672185"
+        "status": "Såld",
+        "item_id": "3294672185",
+        "andrad": "2026-10-29",
+        "sald": "2026-10-29"
       },
       "127792949": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/127792949/",

@@ -1397,8 +1397,9 @@
       },
       "128912075": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/128912075/",
-        "status": "REDO",
-        "item_id": "3293738949"
+        "status": "Till salu",
+        "item_id": "3293738949",
+        "andrad": "2026-10-30"
       },
       "120470555": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/klara/120470555/",
@@ -1434,8 +1435,9 @@
       },
       "122851409": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/bjorkas/122851409/",
-        "status": "REDO",
-        "item_id": "3302696942"
+        "status": "Till salu",
+        "item_id": "3302696942",
+        "andrad": "2026-10-30"
       },
       "127912979": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/valberg/nor/127912979/",
@@ -1457,7 +1459,8 @@
       },
       "118932699": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/haga/118932699/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-10-30"
       },
       "128163981": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/rud/128163981/",

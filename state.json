@@ -1451,7 +1451,9 @@
       },
       "127659399": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skoghall/hammaro/127659399/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-11-02",
+        "sald": "2026-11-02"
       },
       "125417989": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/slottsbron/grums/125417989/",
@@ -1497,6 +1499,10 @@
       "118905429": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/malmen/118905429/",
         "status": "Till salu"
+      },
+      "121675783": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/bryggudden/121675783/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {

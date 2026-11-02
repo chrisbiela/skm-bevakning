@@ -1493,6 +1493,10 @@
       "127172879": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/127172879/",
         "status": "REDO"
+      },
+      "118905429": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/malmen/118905429/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2937,6 +2941,14 @@
       "128913147": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/128913147/",
         "status": "Till salu"
+      },
+      "118723247": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/vejbystrand/118723247/",
+        "status": "REDO"
+      },
+      "117722043": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/117722043/",
+        "status": "REDO"
       }
     }
   },

@@ -1508,7 +1508,12 @@
       },
       "128058903": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tingvallastaden/128058903/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-11-04"
+      },
+      "128816207": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/128816207/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2902,7 +2907,9 @@
       },
       "128425223": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/128425223/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-04",
+        "sald": "2026-11-04"
       },
       "117664437": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/hoganas/117664437/",

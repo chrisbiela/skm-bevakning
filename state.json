@@ -2965,7 +2965,8 @@
       },
       "118723247": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/vejbystrand/118723247/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-11-04"
       },
       "117722043": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/117722043/",
@@ -2977,6 +2978,14 @@
       },
       "128666819": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/skepparkroken/128666819/",
+        "status": "Till salu"
+      },
+      "129347427": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/mariastaden/129347427/",
+        "status": "Till salu"
+      },
+      "128601693": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/dalhem/128601693/",
         "status": "Till salu"
       }
     }

@@ -1209,7 +1209,9 @@
       },
       "126900217": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/sundsta/126900217/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-05",
+        "sald": "2026-11-05"
       },
       "99246368": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/99246368/",
@@ -1290,7 +1292,9 @@
       },
       "126029621": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/barstad/126029621/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-11-05",
+        "sald": "2026-11-05"
       },
       "128598457": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/128598457/",
@@ -1393,7 +1397,9 @@
       },
       "127033639": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/ostra-fagelvik/127033639/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-11-05",
+        "sald": "2026-11-05"
       },
       "128912075": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/128912075/",
@@ -1519,6 +1525,10 @@
       "128475225": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/vaxnas/128475225/",
         "status": "Till salu"
+      },
+      "128517047": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/forshaga/sodra-hyn/128517047/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {

@@ -1446,8 +1446,9 @@
       },
       "128121435": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128121435/",
-        "status": "REDO",
-        "item_id": "3305518545"
+        "status": "Till salu",
+        "item_id": "3305518545",
+        "andrad": "2026-11-05"
       },
       "127659399": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skoghall/hammaro/127659399/",
@@ -1513,6 +1514,10 @@
       },
       "128816207": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/128816207/",
+        "status": "Till salu"
+      },
+      "128475225": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/vaxnas/128475225/",
         "status": "Till salu"
       }
     },
@@ -2986,6 +2991,10 @@
       },
       "128601693": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/dalhem/128601693/",
+        "status": "Till salu"
+      },
+      "127449801": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/viken/viken/127449801/",
         "status": "Till salu"
       }
     }

@@ -1529,6 +1529,10 @@
       "128517047": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/forshaga/sodra-hyn/128517047/",
         "status": "REDO"
+      },
+      "96517206": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/gruvlyckan/96517206/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2928,8 +2932,10 @@
       },
       "117664437": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/hoganas/117664437/",
-        "status": "Till salu",
-        "item_id": "3293718678"
+        "status": "Såld",
+        "item_id": "3293718678",
+        "andrad": "2026-11-06",
+        "sald": "2026-11-06"
       },
       "127791541": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/127791541/",
@@ -3005,6 +3011,10 @@
       },
       "127449801": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/viken/viken/127449801/",
+        "status": "Till salu"
+      },
+      "127763499": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/teckomatorp/teckomatorp/127763499/",
         "status": "Till salu"
       }
     }

@@ -1495,7 +1495,9 @@
       },
       "123684453": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/lorensberg/123684453/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-07",
+        "sald": "2026-11-07"
       },
       "127451417": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skoghall/hammaro/127451417/",
@@ -1536,6 +1538,10 @@
       },
       "96517206": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/gruvlyckan/96517206/",
+        "status": "Till salu"
+      },
+      "129440493": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/129440493/",
         "status": "Till salu"
       }
     },

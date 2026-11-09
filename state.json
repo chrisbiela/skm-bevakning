@@ -1543,6 +1543,10 @@
       "129440493": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/129440493/",
         "status": "Till salu"
+      },
+      "128638283": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/rud/128638283/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2785,8 +2789,9 @@
       },
       "123469917": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/123469917/",
-        "status": "Till salu",
-        "andrad": "2026-10-19"
+        "status": "Såld",
+        "andrad": "2026-11-09",
+        "sald": "2026-11-09"
       },
       "127606441": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/127606441/",

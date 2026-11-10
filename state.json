@@ -1338,7 +1338,9 @@
       },
       "127795517": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/storfors/storfors/127795517/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-11-10",
+        "sald": "2026-11-10"
       },
       "122359741": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/122359741/",
@@ -2941,8 +2943,9 @@
       },
       "128502327": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/128502327/",
-        "status": "Till salu",
-        "andrad": "2026-10-16"
+        "status": "Såld",
+        "andrad": "2026-11-10",
+        "sald": "2026-11-10"
       },
       "128425223": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/128425223/",

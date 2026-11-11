@@ -1474,8 +1474,9 @@
       },
       "118932699": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/haga/118932699/",
-        "status": "Till salu",
-        "andrad": "2026-10-30"
+        "status": "Såld",
+        "andrad": "2026-11-11",
+        "sald": "2026-11-11"
       },
       "128163981": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/rud/128163981/",
@@ -2953,7 +2954,9 @@
       },
       "128554925": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/gustavslund/128554925/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-11",
+        "sald": "2026-11-11"
       },
       "128355553": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/drottninghog/128355553/",
@@ -3076,6 +3079,10 @@
       },
       "103311858": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/raus/103311858/",
+        "status": "REDO"
+      },
+      "109225824": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/109225824/",
         "status": "REDO"
       }
     }

@@ -1282,7 +1282,9 @@
       },
       "121619829": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/skattkarr/121619829/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-11",
+        "sald": "2026-11-11"
       },
       "127443971": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/hammaro/tynas/127443971/",
@@ -1557,6 +1559,14 @@
       "129514781": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/sodra-kroppkarr/129514781/",
         "status": "Till salu"
+      },
+      "81801878": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/alster/81801878/",
+        "status": "Till salu"
+      },
+      "99100222": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/lungvik-skattkarr/99100222/",
+        "status": "Såld"
       }
     },
     "Helsingborg": {
@@ -3054,6 +3064,18 @@
       },
       "128256817": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/magnarps-strand/128256817/",
+        "status": "REDO"
+      },
+      "111601305": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/odakra/111601305/",
+        "status": "REDO"
+      },
+      "110034190": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/husensjo/110034190/",
+        "status": "REDO"
+      },
+      "103311858": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/raus/103311858/",
         "status": "REDO"
       }
     }

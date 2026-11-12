@@ -1390,8 +1390,9 @@
       },
       "127851885": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/vaxnas/127851885/",
-        "status": "Till salu",
-        "andrad": "2026-10-21"
+        "status": "Såld",
+        "andrad": "2026-11-12",
+        "sald": "2026-11-12"
       },
       "125274397": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/norrstrand/125274397/",
@@ -3083,6 +3084,10 @@
       },
       "109225824": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/109225824/",
+        "status": "REDO"
+      },
+      "127957247": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127957247/",
         "status": "REDO"
       }
     }

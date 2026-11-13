@@ -1448,9 +1448,10 @@
       },
       "122851409": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/bjorkas/122851409/",
-        "status": "Till salu",
+        "status": "Såld",
         "item_id": "3302696942",
-        "andrad": "2026-10-30"
+        "andrad": "2026-11-13",
+        "sald": "2026-11-13"
       },
       "127912979": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/valberg/nor/127912979/",
@@ -3027,7 +3028,9 @@
       },
       "128913147": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ekeby/ekeby/128913147/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-13",
+        "sald": "2026-11-13"
       },
       "118723247": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/vejbystrand/118723247/",
@@ -3088,6 +3091,14 @@
       },
       "127957247": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/127957247/",
+        "status": "REDO"
+      },
+      "107624046": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/adolfsberg/107624046/",
+        "status": "REDO"
+      },
+      "104500434": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastergard/104500434/",
         "status": "REDO"
       }
     }

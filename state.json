@@ -1270,7 +1270,9 @@
       },
       "118483371": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/118483371/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-13",
+        "sald": "2026-11-13"
       },
       "127507479": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/grums/grums/127507479/",
@@ -1569,6 +1571,14 @@
       },
       "99100222": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/lungvik-skattkarr/99100222/",
+        "status": "Såld"
+      },
+      "129156341": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/hagaborg/129156341/",
+        "status": "REDO"
+      },
+      "128444141": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/alster/128444141/",
         "status": "Såld"
       }
     },
@@ -3100,6 +3110,10 @@
       "104500434": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastergard/104500434/",
         "status": "REDO"
+      },
+      "128648259": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/vejbystrand/magnarp/128648259/",
+        "status": "Såld"
       }
     }
   },

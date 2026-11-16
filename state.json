@@ -1313,8 +1313,9 @@
       },
       "115628745": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hammaro/tynas/115628745/",
-        "status": "Till salu",
-        "andrad": "2026-10-21"
+        "status": "Såld",
+        "andrad": "2026-11-16",
+        "sald": "2026-11-16"
       },
       "126266701": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/126266701/",
@@ -1582,6 +1583,10 @@
       "128444141": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/alster/128444141/",
         "status": "Såld"
+      },
+      "122525899": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/centrum/122525899/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {

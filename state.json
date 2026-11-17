@@ -1589,6 +1589,22 @@
       "122525899": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/centrum/122525899/",
         "status": "REDO"
+      },
+      "127214935": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/visnum/127214935/",
+        "status": "Till salu"
+      },
+      "120260721": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/ostra-fagelvik/120260721/",
+        "status": "REDO"
+      },
+      "114476397": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/inre-hamn/114476397/",
+        "status": "Till salu"
+      },
+      "127125289": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/granhult/127125289/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -3129,6 +3145,10 @@
       "104821426": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/104821426/",
         "status": "REDO"
+      },
+      "101617032": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/miatorp/101617032/",
+        "status": "Till salu"
       }
     }
   },

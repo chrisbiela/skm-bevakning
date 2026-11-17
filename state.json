@@ -1458,8 +1458,10 @@
       },
       "127912979": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/valberg/nor/127912979/",
-        "status": "REDO",
-        "item_id": "3305529035"
+        "status": "Såld",
+        "item_id": "3305529035",
+        "andrad": "2026-11-17",
+        "sald": "2026-11-17"
       },
       "128121435": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/128121435/",
@@ -1940,7 +1942,9 @@
       },
       "114357483": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/paarp/114357483/",
-        "status": "REDO"
+        "status": "Såld",
+        "andrad": "2026-11-17",
+        "sald": "2026-11-17"
       },
       "107453504": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/maria-park/107453504/",
@@ -3121,6 +3125,10 @@
       "128648259": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/vejbystrand/magnarp/128648259/",
         "status": "Såld"
+      },
+      "104821426": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/104821426/",
+        "status": "REDO"
       }
     }
   },

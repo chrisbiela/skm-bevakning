@@ -1605,6 +1605,10 @@
       "127125289": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/granhult/127125289/",
         "status": "REDO"
+      },
+      "121528449": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/karlstad/edsgatan/121528449/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -2959,7 +2963,9 @@
       },
       "124888939": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/narlunda/124888939/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-17",
+        "sald": "2026-11-17"
       },
       "128113411": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/dalhem/128113411/",
@@ -3149,6 +3155,10 @@
       "101617032": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/miatorp/101617032/",
         "status": "Till salu"
+      },
+      "102338754": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/102338754/",
+        "status": "REDO"
       }
     }
   },

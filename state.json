@@ -1446,8 +1446,10 @@
       },
       "121168389": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/edsvalla/grums/121168389/",
-        "status": "REDO",
-        "item_id": "3300898273"
+        "status": "Såld",
+        "item_id": "3300898273",
+        "andrad": "2026-11-18",
+        "sald": "2026-11-18"
       },
       "122851409": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/bjorkas/122851409/",
@@ -1609,6 +1611,14 @@
       "121528449": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/karlstad/edsgatan/121528449/",
         "status": "Till salu"
+      },
+      "93903262": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/kanikenasholmen/93903262/",
+        "status": "REDO"
+      },
+      "129207555": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/129207555/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -2781,7 +2791,9 @@
       },
       "127670497": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/hogasten/127670497/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-18",
+        "sald": "2026-11-18"
       },
       "126756141": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kagerod/126756141/",
@@ -3158,6 +3170,14 @@
       },
       "102338754": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/tagaborg/102338754/",
+        "status": "REDO"
+      },
+      "129347295": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/luntertun/129347295/",
+        "status": "Till salu"
+      },
+      "100622630": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/ringstorp/100622630/",
         "status": "REDO"
       }
     }

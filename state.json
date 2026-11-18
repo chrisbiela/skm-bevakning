@@ -3059,7 +3059,9 @@
       },
       "102486508": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/astorp/astorp/102486508/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-18",
+        "sald": "2026-11-18"
       },
       "127976047": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/127976047/",
@@ -3179,6 +3181,10 @@
       "100622630": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/ringstorp/100622630/",
         "status": "REDO"
+      },
+      "129189453": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/eskilsminne/129189453/",
+        "status": "Till salu"
       }
     }
   },

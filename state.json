@@ -1596,7 +1596,9 @@
       },
       "127214935": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/visnum/127214935/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-19",
+        "sald": "2026-11-19"
       },
       "120260721": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/skattkarr/ostra-fagelvik/120260721/",
@@ -1621,6 +1623,10 @@
       "129207555": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/129207555/",
         "status": "REDO"
+      },
+      "124700367": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/124700367/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {

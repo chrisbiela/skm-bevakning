@@ -1290,7 +1290,9 @@
       },
       "127443971": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/hammaro/tynas/127443971/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-19",
+        "sald": "2026-11-19"
       },
       "128269319": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kil/grava/128269319/",
@@ -3184,6 +3186,10 @@
       },
       "129189453": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/helsingborg/eskilsminne/129189453/",
+        "status": "Till salu"
+      },
+      "129465205": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/129465205/",
         "status": "Till salu"
       }
     }

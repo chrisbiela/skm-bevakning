@@ -1035,8 +1035,9 @@
       },
       "126980341": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/forshaga/forshaga/126980341/",
-        "status": "Till salu",
-        "andrad": "2026-09-09"
+        "status": "Såld",
+        "andrad": "2026-11-20",
+        "sald": "2026-11-20"
       },
       "123824583": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/123824583/",
@@ -1626,6 +1627,14 @@
       },
       "124700367": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/124700367/",
+        "status": "Till salu"
+      },
+      "128917079": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlskoga/karlskoga/128917079/",
+        "status": "Till salu"
+      },
+      "129258811": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/gruvlyckan/129258811/",
         "status": "Till salu"
       }
     },
@@ -3196,6 +3205,10 @@
       },
       "129465205": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/oceanhamnen/129465205/",
+        "status": "Till salu"
+      },
+      "129117245": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/larod/129117245/",
         "status": "Till salu"
       }
     }

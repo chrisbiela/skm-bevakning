@@ -3137,7 +3137,9 @@
       },
       "127763499": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/teckomatorp/teckomatorp/127763499/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-20",
+        "sald": "2026-11-20"
       },
       "129016365": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/angelholm/vejbystrand/129016365/",
@@ -3209,6 +3211,10 @@
       },
       "129117245": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/larod/129117245/",
+        "status": "Till salu"
+      },
+      "129416645": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/fridhem/129416645/",
         "status": "Till salu"
       }
     }

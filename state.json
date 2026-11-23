@@ -979,8 +979,9 @@
       },
       "125880955": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/skattkarr/125880955/",
-        "status": "Till salu",
-        "andrad": "2026-09-08"
+        "status": "Såld",
+        "andrad": "2026-11-23",
+        "sald": "2026-11-23"
       },
       "120218457": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/120218457/",
@@ -1547,7 +1548,9 @@
       },
       "128475225": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/vaxnas/128475225/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-23",
+        "sald": "2026-11-23"
       },
       "128517047": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/fritidshus/forshaga/sodra-hyn/128517047/",
@@ -3223,6 +3226,10 @@
       },
       "128793913": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/luntertun/128793913/",
+        "status": "Till salu"
+      },
+      "129184565": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/129184565/",
         "status": "Till salu"
       }
     }

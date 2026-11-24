@@ -1643,6 +1643,14 @@
       "129592407": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/gard/karlstad/ostra-fagelvik/129592407/",
         "status": "Såld"
+      },
+      "86570258": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/marielund/86570258/",
+        "status": "Till salu"
+      },
+      "127344563": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/bryggudden/127344563/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -1906,7 +1914,8 @@
       },
       "86451856": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/hoganas/arild/86451856/",
-        "status": "Till salu"
+        "status": "REDO",
+        "andrad": "2026-11-24"
       },
       "124237487": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/124237487/",
@@ -3231,6 +3240,14 @@
       "129184565": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/129184565/",
         "status": "Till salu"
+      },
+      "121936243": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/attekulla/121936243/",
+        "status": "Till salu"
+      },
+      "100944230": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/100944230/",
+        "status": "REDO"
       }
     }
   },

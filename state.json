@@ -1626,7 +1626,8 @@
       },
       "129207555": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/herrhagen/129207555/",
-        "status": "REDO"
+        "status": "Till salu",
+        "andrad": "2026-11-25"
       },
       "124700367": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/kristinehamn/124700367/",
@@ -3249,6 +3250,22 @@
       "100944230": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/vastra-berga/100944230/",
         "status": "REDO"
+      },
+      "129287941": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/129287941/",
+        "status": "Till salu"
+      },
+      "128655357": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/odakra/odakra/128655357/",
+        "status": "Till salu"
+      },
+      "126629083": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/slottshojden/126629083/",
+        "status": "Till salu"
+      },
+      "129570813": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/planteringen/129570813/",
+        "status": "Till salu"
       }
     }
   },

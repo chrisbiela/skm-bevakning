@@ -1652,6 +1652,14 @@
       "127344563": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/bryggudden/127344563/",
         "status": "REDO"
+      },
+      "129152025": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/jagartorpet-farjestad/129152025/",
+        "status": "REDO"
+      },
+      "129323095": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/valberg/valberg/129323095/",
+        "status": "Till salu"
       }
     },
     "Helsingborg": {
@@ -3002,8 +3010,9 @@
       },
       "127500897": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/ramlosa/ramlosa/127500897/",
-        "status": "Till salu",
-        "andrad": "2026-11-08"
+        "status": "Såld",
+        "andrad": "2026-11-26",
+        "sald": "2026-11-26"
       },
       "128162565": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/rosengarden/128162565/",
@@ -3267,6 +3276,10 @@
       },
       "129570813": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/planteringen/129570813/",
+        "status": "Till salu"
+      },
+      "129477111": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/helsingborg/soder/129477111/",
         "status": "Till salu"
       }
     }

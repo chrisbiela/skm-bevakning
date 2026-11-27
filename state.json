@@ -35,9 +35,9 @@
       },
       "125822747": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/hammaro/lovnas/125822747/",
-        "status": "Till salu",
+        "status": "REDO",
         "item_id": "3158716281",
-        "andrad": "2026-10-26"
+        "andrad": "2026-11-27"
       },
       "120454071": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kristinehamn/olme/120454071/",
@@ -1433,8 +1433,10 @@
       },
       "128057009": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/stenfallet/128057009/",
-        "status": "Till salu",
-        "item_id": "3299789801"
+        "status": "Såld",
+        "item_id": "3299789801",
+        "andrad": "2026-11-27",
+        "sald": "2026-11-27"
       },
       "124930459": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/tomt/kristinehamn/kristinehamns-skargard/124930459/",
@@ -1659,6 +1661,10 @@
       },
       "129323095": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/valberg/valberg/129323095/",
+        "status": "Till salu"
+      },
+      "128593037": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/lamberget/128593037/",
         "status": "Till salu"
       }
     },

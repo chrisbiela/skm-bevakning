@@ -1111,7 +1111,9 @@
       },
       "127489463": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/tullholmsviken/127489463/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-27",
+        "sald": "2026-11-27"
       },
       "126155123": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/hultsberg/126155123/",
@@ -1525,7 +1527,9 @@
       },
       "128795123": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlstad/farjestad/128795123/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-27",
+        "sald": "2026-11-27"
       },
       "127172879": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/kristinehamn/127172879/",
@@ -1637,7 +1641,9 @@
       },
       "128917079": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/villa/karlskoga/karlskoga/128917079/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-27",
+        "sald": "2026-11-27"
       },
       "129258811": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/gruvlyckan/129258811/",
@@ -1666,6 +1672,10 @@
       "128593037": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/karlstad/lamberget/128593037/",
         "status": "Till salu"
+      },
+      "129181715": {
+        "url": "https://www.skandiamaklarna.se/hitta-hem/villa/kil/stora-kil/129181715/",
+        "status": "REDO"
       }
     },
     "Helsingborg": {
@@ -3254,7 +3264,9 @@
       },
       "128793913": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/angelholm/luntertun/128793913/",
-        "status": "Till salu"
+        "status": "Såld",
+        "andrad": "2026-11-27",
+        "sald": "2026-11-27"
       },
       "129184565": {
         "url": "https://www.skandiamaklarna.se/hitta-hem/bostadsratt/haljarp/haljarp/129184565/",
